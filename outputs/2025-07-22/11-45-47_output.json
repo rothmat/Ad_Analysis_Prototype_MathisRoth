@@ -1,0 +1,7 @@
+{
+  "input": "Analysiere dieses Bild mit einem Tool: https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+  "output": {
+    "input": "Analysiere dieses Bild mit einem Tool: https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+    "output": "The image is a Facebook screenshot with a single-column layout, featuring a dominant text area (70%) and a smaller image area (20%). The color palette includes #FFAA00, #000000, #FFFFFF, #00A651, and #FF00FF, with a sans-serif font used throughout. The text is left-aligned, and the composition is recognized as a social feed. The main elements include a large text block at the top with the headline \"Haushaltssperre in Brühl – Verantwortung statt Symbolpolitik,\" a medium-sized text block providing additional information, a large green image with the message \"KRITIK IST SCHNELL GEÄUSSERT. WEITBLICK BRAUCHT MEHR,\" and a small interactive button at the bottom right labeled \"Zum Instagram.\" The text is informative and formal, with a rational argument type and a complementary image-text relationship. The target audience is general, with indicators pointing to political themes and municipal administration. The emotional appeal is urgency, framed as a gain, with a general address type."
+  }
+}

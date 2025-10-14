@@ -1,0 +1,318 @@
+[
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-17T13:21:18Z",
+    "ad_keys": {
+      "ad_external_id": "1473870513952155",
+      "ad_pk": 11301,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-15"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1473870513952155",
+        "ad_creation_time": "2025-09-15",
+        "ad_delivery_start_time": "2025-09-16",
+        "ad_creative_bodies": [
+          "Jetzt richtig abstimmen und den Eigenmietwert abschaffen."
+        ],
+        "ad_creative_link_captions": [
+          "faire-steuern.ch"
+        ],
+        "ad_creative_link_descriptions": [
+          "Hey! Hast du bereits abgestimmt? 🗳️ Am 28. September haben wir endlich die Chance, die Eigenmietwert-Steuer abzuschaffen. Diese ungerechte Steuer belastet nämlich viele Schweizerinnen und Schweizer schon seit Jahrzehnten. 😮‍💨💰 ⏰ Es bleibt nicht mehr viel Zeit. Stimme heute noch ab..."
+        ],
+        "ad_creative_link_titles": [
+          "Jetzt abstimmen."
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1473870513952155&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.015246",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.090783",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.103257",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.08316",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.014553",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.101871",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.085932",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.018018",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.076923",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.021483",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.01386",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.092862",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.087318",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.027027",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.082467",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.057519",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.023562",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.004158",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.825175",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.174825",
+            "region": "Appenzell Innerrhoden"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "1000",
+          "upper_bound": "1999"
+        },
+        "page_id": "112273518443237",
+        "page_name": "JSVP Säntis",
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "JSVP Säntis",
+        "estimated_audience_size": {
+          "lower_bound": "10001",
+          "upper_bound": "50000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4544,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-17/1473870513952155.png",
+          "filename": "1473870513952155.png",
+          "date_folder": "2025-09-17"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-17",
+        "screenshot_id": "media:4544",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#00B300",
+              "#FFFFFF",
+              "#FFAA00",
+              "#000000"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Helvetica"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 1,
+              "mittel": 2,
+              "groß": 2
+            },
+            "textausrichtung": "zentriert",
+            "flächenverteilung": {
+              "textfläche": 30,
+              "bildfläche": 50,
+              "weißraum": 20
+            },
+            "kompositionstyp": "Zentrumskomposition",
+            "bildtyp": "Foto",
+            "blickführung": "zentral",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "Einspaltig",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "Zentrum",
+                "farbe": "#FFFFFF",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Hauptbotschaft",
+                "inhalt": "JA zum Bundesbeschluss Zweitwohnungen",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Unten",
+                "farbe": "#000000",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "CTA",
+                "bedeutung": "Handlungsaufforderung",
+                "inhalt": "Jetzt richtig abstimmen!",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "Unklar",
+            "headline_zeichenanzahl": 38,
+            "headline_wortanzahl": 7,
+            "gesamtzeichenanzahl": 250,
+            "gesamtwortanzahl": 45,
+            "durchschnittliche_wortlänge": 4.5,
+            "anzahl_textblöcke": 4,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.6,
+            "cta_typ": "Handlungsaufforderung",
+            "cta_position": "Unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "motiviert",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 15,
+              "Verben": 5,
+              "Adjektive": 3,
+              "Pronomen": 5
+            },
+            "text_inhalte": [
+              {
+                "inhalt": "Jetzt richtig abstimmen und den Eigenmietwert abschaffen.",
+                "funktion": "Info",
+                "sprachebene": "neutral",
+                "ton": "informiert"
+              },
+              {
+                "inhalt": "JA zum Bundesbeschluss Zweitwohnungen",
+                "funktion": "Branding",
+                "sprachebene": "werblich",
+                "ton": "motiviert"
+              },
+              {
+                "inhalt": "28.09 Jetzt richtig abstimmen!",
+                "funktion": "CTA",
+                "sprachebene": "werblich",
+                "ton": "drängt"
+              },
+              {
+                "inhalt": "Hey! Hast du bereits abgestimmt?",
+                "funktion": "Info",
+                "sprachebene": "neutral",
+                "ton": "informiert"
+              }
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "hoch",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Haken",
+              "symbol_bedeutung": "Vertrauen"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Schweizer Bürger",
+            "zielgruppen_indikatoren": [
+              "Politik",
+              "Steuern"
+            ],
+            "emotionaler_apell": "dringlich",
+            "framing_typ": "Gewinn",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  }
+]

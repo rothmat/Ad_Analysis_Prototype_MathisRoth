@@ -1,0 +1,139 @@
+{
+  "image_url": "https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+  "output": {
+    "visuelle_features": {
+      "farbpalette": [
+        "#00FF00",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "schriftarten_erkannt": [
+        "Sans Serif"
+      ],
+      "schriftgrößen_verteilung": {
+        "klein": 2,
+        "mittel": 1,
+        "groß": 1
+      },
+      "textausrichtung": "zentriert",
+      "flächenverteilung": {
+        "textfläche": 40,
+        "bildfläche": 50,
+        "weißraum": 10
+      },
+      "kompositionstyp": "Zentrumskomposition",
+      "bildtyp": "Screenshot",
+      "blickführung": "zentral",
+      "salienzverteilung": 0.7,
+      "dominante_layoutstruktur": "Social-Feed",
+      "plattformkontext_erkannt": true,
+      "plattform": "Facebook",
+      "elemente": [
+        {
+          "element": "Textblock",
+          "position": "oben",
+          "farbe": "Schwarz",
+          "größe": "groß",
+          "form": "rechteckig",
+          "interaktiv_erscheinung": false,
+          "funktion": "Info",
+          "bedeutung": "Information",
+          "inhalt": "Haushaltssperre in Brühl – Verantwortung statt Symbolpolitik",
+          "person_mimik_erkannbar": "nicht sichtbar",
+          "bild_inhalt": "Text",
+          "markenlogo_erkannt": false
+        },
+        {
+          "element": "Textblock",
+          "position": "unten",
+          "farbe": "Weiß",
+          "größe": "mittel",
+          "form": "rechteckig",
+          "interaktiv_erscheinung": false,
+          "funktion": "Branding",
+          "bedeutung": "Markenidentität",
+          "inhalt": "BÜNDNIS 90/DIE GRÜNEN BRÜHL",
+          "person_mimik_erkannbar": "nicht sichtbar",
+          "bild_inhalt": "Text",
+          "markenlogo_erkannt": true
+        },
+        {
+          "element": "Button",
+          "position": "unten rechts",
+          "farbe": "Blau",
+          "größe": "klein",
+          "form": "rechteckig",
+          "interaktiv_erscheinung": true,
+          "funktion": "CTA",
+          "bedeutung": "Aufforderung",
+          "inhalt": "Zum Instagram",
+          "person_mimik_erkannbar": "nicht sichtbar",
+          "bild_inhalt": "UI-Element",
+          "markenlogo_erkannt": false
+        }
+      ]
+    },
+    "textuelle_features": {
+      "headline_länge": "12",
+      "headline_zeichenanzahl": 64,
+      "headline_wortanzahl": 8,
+      "gesamtzeichenanzahl": 500,
+      "gesamtwortanzahl": 80,
+      "durchschnittliche_wortlänge": 5.5,
+      "anzahl_textblöcke": 3,
+      "anzahl_schriftarten": 1,
+      "text_bild_verhältnis": 44.4,
+      "cta_typ": "Imperativ",
+      "cta_position": "unten",
+      "cta_visuelle_prominenz": "mittel",
+      "cta_wirkungseinschätzung": "handlungsauffordernd",
+      "sprachstil": "informativ",
+      "tonalität": "sachlich",
+      "textgliederung_erkennbar": true,
+      "wortartenverteilung": {
+        "Substantive": 30,
+        "Verben": 20,
+        "Adjektive": 15,
+        "Pronomen": 5
+      },
+      "text_inhalte": [
+        {
+          "inhalt": "Haushaltssperre in Brühl – Verantwortung statt Symbolpolitik",
+          "funktion": "Info",
+          "sprachebene": "formell",
+          "wirkung": "informiert"
+        },
+        {
+          "inhalt": "Kritik ist schnell geäußert. Weitblick braucht mehr.",
+          "funktion": "Branding",
+          "sprachebene": "neutral",
+          "wirkung": "motiviert"
+        },
+        {
+          "inhalt": "Zum Instagram",
+          "funktion": "CTA",
+          "sprachebene": "neutral",
+          "wirkung": "handlungsauffordernd"
+        }
+      ]
+    },
+    "semantische_features": {
+      "argumenttyp": "rational",
+      "bild_text_verhältnis": "komplementär",
+      "symbolgebrauch": {
+        "symbol_erkannt": true,
+        "symbol_typ": "Sonne",
+        "symbol_bedeutung": "Energie"
+      },
+      "werbeversprechen": "USP",
+      "zielgruppe": "Allgemein",
+      "zielgruppen_indikatoren": [
+        "Politische Themen",
+        "Formelle Sprache"
+      ],
+      "emotionaler_apell": "Dringlichkeit",
+      "framing_typ": "Gewinn",
+      "ansprache_typ": "allgemein"
+    }
+  }
+}

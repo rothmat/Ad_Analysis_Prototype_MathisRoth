@@ -1,0 +1,7 @@
+{
+  "input": "Analysiere dieses Bild mit einem Tool: https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+  "output": {
+    "input": "Analysiere dieses Bild mit einem Tool: https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+    "output": "The image is a Facebook advertisement with a political message, urging responsibility over symbolic politics, and includes a call-to-action to visit Instagram. It uses a central composition with a social-feed layout, featuring a text block, button, and image, each serving different functions. The language is formal and informative, targeting a general audience with an appeal to urgency."
+  }
+}

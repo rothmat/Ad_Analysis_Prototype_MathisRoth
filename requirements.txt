@@ -1,0 +1,38 @@
+#  Core LLM Frameworks
+langchain
+openai
+transformers
+torch
+chromadb
+sentence-transformers
+
+#  Vision & Bildanalyse
+opencv-python
+pillow
+ultralytics     # Für YOLOv8
+imageio
+
+# Analyse & Text
+pandas
+numpy
+scikit-learn
+nltk
+textstat
+vaderSentiment
+
+# Export, GUI & Report
+matplotlib
+python-docx
+markdown
+reportlab
+gradio          # Optional: GUI
+streamlit       # Optional: GUI
+
+# Logging, Config, Utils
+python-dotenv
+tqdm
+loguru
+requests
+
+# Testing & Debugging
+pytest

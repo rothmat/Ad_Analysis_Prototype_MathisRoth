@@ -1,0 +1,1370 @@
+[
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-16T13:12:01Z",
+    "ad_keys": {
+      "ad_external_id": "568647692940893",
+      "ad_pk": 9549,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-15"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "568647692940893",
+        "ad_creation_time": "2025-09-15",
+        "ad_delivery_start_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "Am 28. September NEIN zur Abschaffung des Eigenmietwerts!"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=568647692940893&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.107937",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.038095",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.031746",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.047619",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.063492",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.050794",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.003175",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.07619",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.009524",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.187302",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.073016",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.047619",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.006349",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.165079",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.063492",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.025397",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.003175",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "1",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "82752099000",
+        "page_name": "Alternative Liste ZH",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "Alternative Liste Zürich",
+        "estimated_audience_size": {
+          "lower_bound": "500001",
+          "upper_bound": "1000000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4292,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-16/568647692940893.png",
+          "filename": "568647692940893.png",
+          "date_folder": "2025-09-16"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-16",
+        "screenshot_id": "media:4292",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#FF00B3",
+              "#FFFFFF",
+              "#000000",
+              "#FFAA00"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Sans Serif"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 1,
+              "mittel": 2,
+              "groß": 1
+            },
+            "textausrichtung": "links",
+            "flächenverteilung": {
+              "textfläche": 40,
+              "bildfläche": 40,
+              "weißraum": 20
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Foto",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "Werbekachel",
+            "plattformkontext_erkannt": true,
+            "plattform": "Unbekannt",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "Zentrum",
+                "farbe": "Unklar",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Aufruf zur Abstimmung",
+                "inhalt": "UNBEDINGT ABSTIMMEN !!!",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Porträt von David Garcia Núñez",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Unten",
+                "farbe": "Unklar",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Textblock",
+                "bedeutung": "Information zur Abstimmung",
+                "inhalt": "NEIN zur Eigenmietwert-Abschaffung am 28.9.",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "Unklar",
+            "headline_zeichenanzahl": 0,
+            "headline_wortanzahl": 0,
+            "gesamtzeichenanzahl": 0,
+            "gesamtwortanzahl": 0,
+            "durchschnittliche_wortlänge": 0.0,
+            "anzahl_textblöcke": 2,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.0,
+            "cta_typ": "Unklar",
+            "cta_position": "nicht vorhanden",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "dringlich",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 5,
+              "Verben": 1,
+              "Adjektive": 0,
+              "Pronomen": 0
+            },
+            "text_inhalte": [
+              {
+                "inhalt": "UNBEDINGT ABSTIMMEN !!!",
+                "funktion": "CTA",
+                "sprache": "Deutsch"
+              },
+              {
+                "inhalt": "NEIN zur Eigenmietwert-Abschaffung am 28.9.",
+                "funktion": "Info",
+                "sprache": "Deutsch"
+              }
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "ausgewogen",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Logo",
+              "symbol_bedeutung": "Identifikation der Marke"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Wähler",
+            "zielgruppen_indikatoren": [
+              "Politik",
+              "Abstimmung"
+            ],
+            "emotionaler_apell": "dringlich",
+            "framing_typ": "Gewinn",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-16T13:12:23Z",
+    "ad_keys": {
+      "ad_external_id": "1141405204858802",
+      "ad_pk": 9548,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-15"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1141405204858802",
+        "ad_creation_time": "2025-09-15",
+        "ad_delivery_start_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "Immer mehr Medien berichten: Die Eigenmietwert-Vorlage gefährdet Sanierungen, KMU und den Mittelstand. Lesen Sie selbst in den aktuellen Artikeln.\n👉 Links zu den Artikeln im ersten Kommentar"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1141405204858802&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "500001",
+          "upper_bound": "1000000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4291,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-16/1141405204858802.png",
+          "filename": "1141405204858802.png",
+          "date_folder": "2025-09-16"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-16",
+        "screenshot_id": "media:4291",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#FFFFFF",
+              "#000000",
+              "#FFAA00"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Sans Serif"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 2,
+              "mittel": 2,
+              "groß": 1
+            },
+            "textausrichtung": "zentriert | linksbündig",
+            "flächenverteilung": {
+              "textfläche": 30,
+              "bildfläche": 50,
+              "weißraum": 20
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Foto",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "Werbekachel",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "Zentrum",
+                "farbe": "#000000",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Hauptbotschaft der Anzeige",
+                "inhalt": "NEIN zum Sanierungs-Stopp",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Berglandschaft mit Häusern",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Unten",
+                "farbe": "#000000",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "CTA",
+                "bedeutung": "Handlungsaufforderung",
+                "inhalt": "NEIN am 28. September!",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "Unklar",
+            "headline_zeichenanzahl": 27,
+            "headline_wortanzahl": 5,
+            "gesamtzeichenanzahl": 200,
+            "gesamtwortanzahl": 40,
+            "durchschnittliche_wortlänge": 5.0,
+            "anzahl_textblöcke": 5,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.6,
+            "cta_typ": "Handlungsaufforderung",
+            "cta_position": "Unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "dringlich",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 15,
+              "Verben": 5,
+              "Adjektive": 5,
+              "Pronomen": 5
+            },
+            "text_inhalte": [
+              "Immer mehr Medien berichten:",
+              "Die Eigenmietwert-Vorlage gefährdet Sanierungen, KMU und den Mittelstand.",
+              "Lesen Sie selbst in den aktuellen Artikeln.",
+              "Links zu den Artikeln im ersten Kommentar.",
+              "NEIN am 28. September!"
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "hoch",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Haken",
+              "symbol_bedeutung": "Vertrauen"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Allgemein",
+            "zielgruppen_indikatoren": [],
+            "emotionaler_apell": "dringlich",
+            "framing_typ": "Gewinn",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-16T13:12:45Z",
+    "ad_keys": {
+      "ad_external_id": "752925744384352",
+      "ad_pk": 9547,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-15"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "752925744384352",
+        "ad_creation_time": "2025-09-15",
+        "ad_delivery_start_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "Immer mehr Medien berichten: Die Eigenmietwert-Vorlage gefährdet Sanierungen, KMU und den Mittelstand. Lesen Sie selbst in den aktuellen Artikeln.\n👉 Links zu den Artikeln im ersten Kommentar"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=752925744384352&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4290,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-16/752925744384352.png",
+          "filename": "752925744384352.png",
+          "date_folder": "2025-09-16"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-16",
+        "screenshot_id": "media:4290",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#FFFFFF",
+              "#000000",
+              "#FFAA00"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Sans Serif"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 2,
+              "mittel": 2,
+              "groß": 1
+            },
+            "textausrichtung": "zentriert",
+            "flächenverteilung": {
+              "textfläche": 30,
+              "bildfläche": 50,
+              "weißraum": 20
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Foto",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "Werbekachel",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "Oben",
+                "farbe": "#000000",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Hauptbotschaft",
+                "inhalt": "Nein zum Sanierungs-Stopp",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Zentrum",
+                "farbe": "#000000",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Textblock",
+                "bedeutung": "Information",
+                "inhalt": "Immer mehr Medien berichten: Die Eigenmietwert-Vorlage gefährdet Sanierungen, KMU und den Mittelstand.",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              },
+              {
+                "element": "CTA-Button",
+                "position": "Unten",
+                "farbe": "#FFAA00",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": true,
+                "funktion": "Call to Action",
+                "bedeutung": "Handlungsaufforderung",
+                "inhalt": "Mehr dazu",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "Unklar",
+            "headline_zeichenanzahl": 30,
+            "headline_wortanzahl": 5,
+            "gesamtzeichenanzahl": 200,
+            "gesamtwortanzahl": 40,
+            "durchschnittliche_wortlänge": 5.0,
+            "anzahl_textblöcke": 3,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.6,
+            "cta_typ": "Handlungsaufforderung",
+            "cta_position": "Unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "informativ",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 15,
+              "Verben": 5,
+              "Adjektive": 5,
+              "Pronomen": 5
+            },
+            "text_inhalte": [
+              {
+                "inhalt": "Immer mehr Medien berichten: Die Eigenmietwert-Vorlage gefährdet Sanierungen, KMU und den Mittelstand.",
+                "funktion": "Information"
+              },
+              {
+                "inhalt": "Links zu den Artikeln im ersten Kommentar.",
+                "funktion": "Hinweis"
+              }
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "Unklar",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Haken",
+              "symbol_bedeutung": "Vertrauen"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Allgemein",
+            "zielgruppen_indikatoren": [
+              "KMU",
+              "Mittelstand"
+            ],
+            "emotionaler_apell": "Unklar",
+            "framing_typ": "Gewinn",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-16T13:13:07Z",
+    "ad_keys": {
+      "ad_external_id": "1250892706725034",
+      "ad_pk": 9546,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-15"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1250892706725034",
+        "ad_creation_time": "2025-09-15",
+        "ad_delivery_start_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "Immer mehr Medien berichten: Die Eigenmietwert-Vorlage gefährdet Sanierungen, KMU und den Mittelstand. Lesen Sie selbst in den aktuellen Artikeln.\n👉 Links zu den Artikeln im ersten Kommentar"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1250892706725034&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.006135",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.018405",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.03681",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.116564",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.042945",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.134969",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.01227",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.042945",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.07362",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.214724",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.177914",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.067485",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.055215",
+            "age": "65+",
+            "gender": "male"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.104046",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.00578",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.011561",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.011561",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.040462",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.017341",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.046243",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.046243",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.017341",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.023121",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.040462",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.040462",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.00578",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.052023",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.080925",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.00578",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.00578",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.011561",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.023121",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.132948",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.040462",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.034682",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.202312",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "500001",
+          "upper_bound": "1000000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4289,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-16/1250892706725034.png",
+          "filename": "1250892706725034.png",
+          "date_folder": "2025-09-16"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-16",
+        "screenshot_id": "media:4289",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#0000FF",
+              "#FFFFFF",
+              "#000000"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Sans Serif"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 2,
+              "mittel": 2,
+              "groß": 2
+            },
+            "textausrichtung": "zentriert | linksbündig",
+            "flächenverteilung": {
+              "textfläche": 30,
+              "bildfläche": 50,
+              "weißraum": 20
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Foto",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "mehrspaltig",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "Zentrum",
+                "farbe": "blau",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Hauptbotschaft",
+                "inhalt": "NEIN zum Sanierungs-Stopp",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Politiker und Bürger",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Unten",
+                "farbe": "schwarz",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "CTA",
+                "bedeutung": "Handlungsaufforderung",
+                "inhalt": "NEIN am 28. September!",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "Unklar",
+            "headline_zeichenanzahl": 30,
+            "headline_wortanzahl": 6,
+            "gesamtzeichenanzahl": 150,
+            "gesamtwortanzahl": 30,
+            "durchschnittliche_wortlänge": 5.0,
+            "anzahl_textblöcke": 4,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.6,
+            "cta_typ": "Handlungsaufforderung",
+            "cta_position": "Unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "dringlich",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 10,
+              "Verben": 5,
+              "Adjektive": 3,
+              "Pronomen": 2
+            },
+            "text_inhalte": [
+              {
+                "inhalt": "Immer mehr Medien berichten...",
+                "funktion": "Information",
+                "sprachebene": "neutral",
+                "ton": "informativ"
+              },
+              {
+                "inhalt": "Widerstand wächst...",
+                "funktion": "Motivation",
+                "sprachebene": "werblich",
+                "ton": "dringlich"
+              }
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "hoch",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Haken",
+              "symbol_bedeutung": "Vertrauen"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Bürger",
+            "zielgruppen_indikatoren": [
+              "Politik",
+              "Gesellschaft"
+            ],
+            "emotionaler_apell": "dringlich",
+            "framing_typ": "Gewinn",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-16T13:13:27Z",
+    "ad_keys": {
+      "ad_external_id": "4070816279913480",
+      "ad_pk": 9545,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-15"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "4070816279913480",
+        "ad_creation_time": "2025-09-15",
+        "ad_delivery_start_time": "2025-09-15",
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch",
+          "sanierungsstopp-nein.ch",
+          "sanierungsstopp-nein.ch",
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_creative_link_titles": [
+          "Die Vorlage - NEIN zum Sanierungs-Stopp",
+          "Die Vorlage - NEIN zum Sanierungs-Stopp",
+          "Die Vorlage - NEIN zum Sanierungs-Stopp",
+          "Die Vorlage - NEIN zum Sanierungs-Stopp"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=4070816279913480&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.009963",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.026152",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.046077",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.128269",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.001245",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.113325",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.161893",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003736",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.127024",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.139477",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.087173",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.079701",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.001245",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.039851",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.033624",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.001245",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.068966",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.002874",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.00431",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.034483",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.020115",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.008621",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.021552",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.048851",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.054598",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.017241",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.017241",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.048851",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.005747",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.001437",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.03592",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.031609",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.08046",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.001437",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.010057",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.018678",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.147989",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.024425",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.038793",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.255747",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4288,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-16/4070816279913480.png",
+          "filename": "4070816279913480.png",
+          "date_folder": "2025-09-16"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-16",
+        "screenshot_id": "media:4288",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#FFFFFF",
+              "#000000",
+              "#FFAA00"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Sans Serif"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 2,
+              "mittel": 3,
+              "groß": 1
+            },
+            "textausrichtung": "zentriert | linksbündig",
+            "flächenverteilung": {
+              "textfläche": 30,
+              "bildfläche": 50,
+              "weißraum": 20
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Foto",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "mehrspaltig",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "Zentrum",
+                "farbe": "schwarz",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Hauptbotschaft",
+                "inhalt": "NEIN zum Sanierungs-Stopp",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Berglandschaft mit Häusern",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Unten",
+                "farbe": "schwarz",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "CTA",
+                "bedeutung": "Handlungsaufforderung",
+                "inhalt": "Zu den Artikeln: Link in Bio",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "NEIN zum Sanierungs-Stopp",
+            "headline_zeichenanzahl": 24,
+            "headline_wortanzahl": 5,
+            "gesamtzeichenanzahl": 200,
+            "gesamtwortanzahl": 40,
+            "durchschnittliche_wortlänge": 5.0,
+            "anzahl_textblöcke": 5,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.6,
+            "cta_typ": "Link",
+            "cta_position": "Unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "motiviert",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 15,
+              "Verben": 5,
+              "Adjektive": 5,
+              "Pronomen": 5
+            }
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "hoch",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Logo",
+              "symbol_bedeutung": "Markenidentität"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Allgemein",
+            "zielgruppen_indikatoren": [
+              "Bauinteressierte",
+              "Politikinteressierte"
+            ],
+            "emotionaler_apell": "Unklar",
+            "framing_typ": "Gewinn",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  }
+]

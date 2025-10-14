@@ -1,0 +1,3947 @@
+[
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:06:57Z",
+    "ad_keys": {
+      "ad_external_id": "1144700337535476",
+      "ad_pk": 34,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1144700337535476",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_creative_bodies": [
+          "Eigenleistung besteuern? Goht’s no?",
+          "Ja zur Abschaffung des Eigenmietwertes",
+          "Zuhause ist kein Einkommen – der HEV sieht das genauso."
+        ],
+        "ad_creative_link_captions": [
+          "faire-steuern.ch"
+        ],
+        "ad_creative_link_descriptions": [
+          "Diese Steuer ist veraltet. Der HEV will sie abschaffen",
+          "Wir leben im Eigentum – der Staat lebt mit. Der HEV sagt: Stop",
+          "Eigenmietwert = Mehrbelastung. HEV = Gegenkraft"
+        ],
+        "ad_creative_link_titles": [
+          "Eigenmietwert belastet. Der HEV kämpft dagegen. JA zu fairen Steuern",
+          "Der HEV fordert: Eigenmietwert abschaffen. Jetzt JA sagen",
+          "Der HEV sagt: Schluss damit. JA zu fairen Steuern",
+          "Mit dem HEV für faire Steuern. JA zur Abschaffung des Eigenmietwerts"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1144700337535476&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.246732",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.434199",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.319069",
+            "age": "55-64",
+            "gender": "male"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.041565",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.011352",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.009955",
+            "region": "Baden-Württemberg"
+          },
+          {
+            "percentage": "0.041565",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.450052",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.00262",
+            "region": "Eschen"
+          },
+          {
+            "percentage": "0.000524",
+            "region": "Gamprin"
+          },
+          {
+            "percentage": "0.001222",
+            "region": "Ruggell"
+          },
+          {
+            "percentage": "0.000873",
+            "region": "Schaan"
+          },
+          {
+            "percentage": "0.000349",
+            "region": "Schellenberg"
+          },
+          {
+            "percentage": "0.060426",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.211666",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.000524",
+            "region": "Vaduz"
+          },
+          {
+            "percentage": "0.000349",
+            "region": "Vorarlberg"
+          },
+          {
+            "percentage": "0.166958",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "9000",
+          "upper_bound": "9999"
+        },
+        "page_id": "1709880159292849",
+        "page_name": "HEV Kanton St.Gallen",
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "HEV Kanton St.Gallen",
+        "estimated_audience_size": {
+          "lower_bound": "10001",
+          "upper_bound": "50000"
+        },
+        "age_country_gender_reach_breakdown": [
+          {
+            "country": "DE",
+            "age_gender_breakdowns": [
+              {
+                "age_range": "35-44",
+                "male": 16
+              },
+              {
+                "age_range": "45-54",
+                "male": 27
+              },
+              {
+                "age_range": "55-64",
+                "male": 14
+              }
+            ]
+          },
+          {
+            "country": "AT",
+            "age_gender_breakdowns": [
+              {
+                "age_range": "55-64",
+                "male": 2
+              }
+            ]
+          }
+        ],
+        "eu_total_reach": 59,
+        "target_ages": [
+          "40",
+          "60"
+        ],
+        "target_gender": "Men",
+        "total_reach_by_location": [
+          {
+            "key": "EU",
+            "value": 59
+          }
+        ]
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3670,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1144700337535476.png",
+          "filename": "1144700337535476.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3670",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:01Z",
+    "ad_keys": {
+      "ad_external_id": "832925622636072",
+      "ad_pk": 25,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "832925622636072",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-05",
+        "ad_creative_bodies": [
+          "Hör jetzt rein in die neuste Podcast-Folge von \"Züri cha meh\"\n\nKeine Steuer ist so umstritten wie der Eigenmietwert 🏠💸.\n\n👉 Am 28. September besteht die reelle Chance, dass die Steuer – vor bald 100 Jahren in einer nationalen Notlage eingeführt  – an der Stimmurne 🗳️ abgeschafft wird. \n\nAuch, weil der Hauseigentümerverband 🏘️ so viele Konzessionen gemacht hat, wie noch nie 🤝.\n\n 🎙️Simon Hatt, FDPler aus dem Kreis 9 und Hauseigentümerverband Zürich (HEV Zürich)-Finanzleiter, erzählt in der neusten Episode des Stadtpodcasts «Züri cha meh» wieso er selbst auf Stimmen von Links hofft."
+        ],
+        "ad_creative_link_captions": [
+          "www.mehblau.ch"
+        ],
+        "ad_creative_link_titles": [
+          "Selbst Linke wollen Eigenmietwert abschaffen – 30. Podcast-Episode"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=832925622636072&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.002259",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.155767",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.134457",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.099652",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.001221",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.167674",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.086341",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002992",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.05929",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.008976",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.00232",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.133907",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.043903",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000611",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.074678",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.02357",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000733",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.001649",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "1",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "20000",
+          "upper_bound": "24999"
+        },
+        "page_id": "117027101705789",
+        "page_name": "FDP Stadt Zürich",
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "200",
+          "upper_bound": "299"
+        },
+        "bylines": "FDP Stadt Zürich",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3661,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/832925622636072.png",
+          "filename": "832925622636072.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3661",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:04Z",
+    "ad_keys": {
+      "ad_external_id": "1081929747477952",
+      "ad_pk": 29,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1081929747477952",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_creative_bodies": [
+          "Goht’s no? Ich habe 40 Jahre abbezahlt – und zahle noch immer?",
+          "Meine Rente ist knapp – aber der Eigenmietwert bleibt. Goht’s no?",
+          "Mein Haus ist für meine Kinder – nicht für den Staat. Goht’s no?",
+          "Ja zur Abschaffung des Eigenmietwertes"
+        ],
+        "ad_creative_link_captions": [
+          "faire-steuern.ch"
+        ],
+        "ad_creative_link_descriptions": [
+          "Diese Steuer ist veraltet. Der HEV will sie abschaffen",
+          "Eigenmietwert = Mehrbelastung. HEV = Gegenkraft"
+        ],
+        "ad_creative_link_titles": [
+          "Eigenmietwert belastet. Der HEV kämpft dagegen. JA zu fairen Steuern",
+          "Der HEV fordert: Eigenmietwert abschaffen. Jetzt JA sagen",
+          "Der HEV sagt: Schluss damit. JA zu fairen Steuern",
+          "Gemeinsam mit dem HEV: JA zu fairen Steuern",
+          "Mit dem HEV für faire Steuern. JA zur Abschaffung des Eigenmietwerts"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1081929747477952&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.518819",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.475547",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.005634",
+            "age": "55-64",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.038022",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.012967",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.012967",
+            "region": "Baden-Württemberg"
+          },
+          {
+            "percentage": "0.041319",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.424615",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.001319",
+            "region": "Eschen"
+          },
+          {
+            "percentage": "0.00044",
+            "region": "Gamprin"
+          },
+          {
+            "percentage": "0.00044",
+            "region": "Ruggell"
+          },
+          {
+            "percentage": "0.00022",
+            "region": "Schaan"
+          },
+          {
+            "percentage": "0.000659",
+            "region": "Schellenberg"
+          },
+          {
+            "percentage": "0.070989",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.22044",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.000659",
+            "region": "Vaduz"
+          },
+          {
+            "percentage": "0.001099",
+            "region": "Vorarlberg"
+          },
+          {
+            "percentage": "0.173846",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "10000",
+          "upper_bound": "14999"
+        },
+        "page_id": "1709880159292849",
+        "page_name": "HEV Kanton St.Gallen",
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "100",
+          "upper_bound": "199"
+        },
+        "bylines": "HEV Kanton St.Gallen",
+        "estimated_audience_size": {
+          "lower_bound": "10001",
+          "upper_bound": "50000"
+        },
+        "age_country_gender_reach_breakdown": [
+          {
+            "country": "AT",
+            "age_gender_breakdowns": [
+              {
+                "age_range": "55-64",
+                "male": 1,
+                "female": 4
+              }
+            ]
+          },
+          {
+            "country": "DE",
+            "age_gender_breakdowns": [
+              {
+                "age_range": "55-64",
+                "male": 30,
+                "female": 29
+              }
+            ]
+          }
+        ],
+        "eu_total_reach": 64,
+        "target_ages": [
+          "60",
+          "64"
+        ],
+        "target_gender": "All",
+        "total_reach_by_location": [
+          {
+            "key": "EU",
+            "value": 64
+          }
+        ]
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3665,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1081929747477952.png",
+          "filename": "1081929747477952.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3665",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:06Z",
+    "ad_keys": {
+      "ad_external_id": "1565973394373295",
+      "ad_pk": 35,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1565973394373295",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_creative_bodies": [
+          "Eigenleistung besteuern? Goht’s no?",
+          "Ja zur Abschaffung des Eigenmietwertes",
+          "Zuhause ist kein Einkommen – der HEV sieht das genauso."
+        ],
+        "ad_creative_link_captions": [
+          "faire-steuern.ch"
+        ],
+        "ad_creative_link_descriptions": [
+          "Diese Steuer ist veraltet. Der HEV will sie abschaffen",
+          "Wir leben im Eigentum – der Staat lebt mit. Der HEV sagt: Stop",
+          "Eigenmietwert = Mehrbelastung. HEV = Gegenkraft"
+        ],
+        "ad_creative_link_titles": [
+          "Eigenmietwert belastet. Der HEV kämpft dagegen. JA zu fairen Steuern",
+          "Der HEV fordert: Eigenmietwert abschaffen. Jetzt JA sagen",
+          "Der HEV sagt: Schluss damit. JA zu fairen Steuern",
+          "Mit dem HEV für faire Steuern. JA zur Abschaffung des Eigenmietwerts"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1565973394373295&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.240931",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.442339",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.31673",
+            "age": "55-64",
+            "gender": "male"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.037574",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.009125",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.006441",
+            "region": "Baden-Württemberg"
+          },
+          {
+            "percentage": "0.043478",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.463768",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.00161",
+            "region": "Eschen"
+          },
+          {
+            "percentage": "0.001074",
+            "region": "Gamprin"
+          },
+          {
+            "percentage": "0.000537",
+            "region": "Schellenberg"
+          },
+          {
+            "percentage": "0.055287",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.202899",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.000537",
+            "region": "Vorarlberg"
+          },
+          {
+            "percentage": "0.17767",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "3000",
+          "upper_bound": "3999"
+        },
+        "page_id": "1709880159292849",
+        "page_name": "HEV Kanton St.Gallen",
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "HEV Kanton St.Gallen",
+        "estimated_audience_size": {
+          "lower_bound": "10001",
+          "upper_bound": "50000"
+        },
+        "age_country_gender_reach_breakdown": [
+          {
+            "country": "DE",
+            "age_gender_breakdowns": [
+              {
+                "age_range": "35-44",
+                "male": 1
+              },
+              {
+                "age_range": "45-54",
+                "male": 8
+              },
+              {
+                "age_range": "55-64",
+                "male": 3
+              }
+            ]
+          },
+          {
+            "country": "AT",
+            "age_gender_breakdowns": [
+              {
+                "age_range": "55-64",
+                "male": 1
+              }
+            ]
+          }
+        ],
+        "eu_total_reach": 13,
+        "target_ages": [
+          "40",
+          "60"
+        ],
+        "target_gender": "Men",
+        "total_reach_by_location": [
+          {
+            "key": "EU",
+            "value": 13
+          }
+        ]
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3671,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1565973394373295.png",
+          "filename": "1565973394373295.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3671",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:10Z",
+    "ad_keys": {
+      "ad_external_id": "800883525845863",
+      "ad_pk": 10,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "800883525845863",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-16",
+        "ad_creative_bodies": [
+          "Für die Bauwirtschaft sind Abzüge für Unterhalt und energetische Sanierungen zentrale Anreize. Ohne diese fehlt Planungssicherheit – für Wirtschaft und Klimaziele. Deshalb sagt Cristina Schaffner, Direktorin Bauenschweiz, am 28. September NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=800883525845863&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.114313",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.150512",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.00262",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.157418",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.214575",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.00381",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.160753",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.193618",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002382",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.113234",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.051427",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.012975",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.020052",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.026893",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.006369",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.015334",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.050248",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.061571",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.020996",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.016042",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.007785",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.003774",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.007077",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.029252",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.019816",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.078556",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.006605",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.00401",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.004718",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.010616",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.148856",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.051191",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.038924",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.001887",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.191791",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "5000",
+          "upper_bound": "5999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3646,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/800883525845863.png",
+          "filename": "800883525845863.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3646",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:13Z",
+    "ad_keys": {
+      "ad_external_id": "1441047460281700",
+      "ad_pk": 16,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1441047460281700",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-16",
+        "ad_creative_bodies": [
+          "Netto Null 2050 ist ein klarer Auftrag – und die Bauwirtschaft arbeitet mit Hochdruck daran. Ein Sanierungsstopp würde diesen Prozess blockieren. Darum sagt Christoph Schaer, Co-Präsident aeesuisse und Direktor suissetec, klar NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1441047460281700&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.017089",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.115637",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.073293",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.030001",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.001899",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.123137",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.044052",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002658",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.036932",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.103294",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002373",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.128643",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.039685",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.003798",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.222159",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.045381",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.008165",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.001804",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.085361",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.055033",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.012813",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.014657",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.015026",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.004978",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.011892",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.034292",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.033462",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.021386",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.016224",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.005254",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.002212",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.008757",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.030881",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.013274",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.073746",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.00507",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.0059",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.00719",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.01392",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.215247",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.025627",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.043234",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.002305",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.242257",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "10000",
+          "upper_bound": "14999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "200",
+          "upper_bound": "299"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3652,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1441047460281700.png",
+          "filename": "1441047460281700.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3652",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:15Z",
+    "ad_keys": {
+      "ad_external_id": "751827934337160",
+      "ad_pk": 7,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "751827934337160",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "FDP-Ständerat Pascal Broulis warnt: Der Sanierungsstopp würde die Investitionsdynamik im Klimabereich zerstören. Deshalb ruft er alle auf, NEIN zu stimmen.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=751827934337160&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.001831",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.127428",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.070059",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.06957",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002194",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.129673",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.100305",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002683",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.104894",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.004439",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003298",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.160633",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.104317",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.001154",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.076128",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.040027",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000113",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.001254",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.108643",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.063182",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.015278",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.02128",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.021305",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.004725",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.011446",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.045164",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.054948",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.020188",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.011161",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.009251",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.003621",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.007651",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.028547",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.020325",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.083135",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.005618",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.004625",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.007651",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.014311",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.137773",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.038852",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.044271",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.002245",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.214807",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "125000",
+          "upper_bound": "149999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "2000",
+          "upper_bound": "2499"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3643,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/751827934337160.png",
+          "filename": "751827934337160.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3643",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:18Z",
+    "ad_keys": {
+      "ad_external_id": "1284555953210582",
+      "ad_pk": 14,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1284555953210582",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-16",
+        "ad_creative_bodies": [
+          "Für die Bauwirtschaft sind Abzüge für Unterhalt und energetische Sanierungen zentrale Anreize. Ohne diese fehlt Planungssicherheit – für Wirtschaft und Klimaziele. Deshalb sagt Cristina Schaffner, Direktorin Bauenschweiz, am 28. September NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1284555953210582&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.023079",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.1083",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.07428",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.041029",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002393",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.133516",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.078468",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002906",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.061886",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.068638",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002393",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.102744",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.065732",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.003419",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.151722",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.070604",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.007009",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.001881",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.085606",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.055693",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.012808",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.016278",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.015369",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.003801",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.014626",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.034292",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.032391",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.021484",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.014791",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.004793",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.002314",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.008511",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.027929",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.014791",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.073459",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.005288",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.006363",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.005949",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.015617",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.20319",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.028756",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.045282",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.002148",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.248471",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "15000",
+          "upper_bound": "19999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "300",
+          "upper_bound": "399"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3650,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1284555953210582.png",
+          "filename": "1284555953210582.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3650",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:21Z",
+    "ad_keys": {
+      "ad_external_id": "1263800875048281",
+      "ad_pk": 13,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1263800875048281",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-17",
+        "ad_creative_bodies": [
+          "Netto Null 2050 ist ein klarer Auftrag – und die Bauwirtschaft arbeitet mit Hochdruck daran. Ein Sanierungsstopp würde diesen Prozess blockieren. Darum sagt Christoph Schaer, Co-Präsident aeesuisse und Direktor suissetec, klar NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1263800875048281&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.106654",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.184723",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003169",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.146295",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.248904",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003371",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.123711",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.180071",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003101",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.108775",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.058452",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.014714",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.022037",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.02459",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.005039",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.014311",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.051733",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.058654",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.02459",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.0129",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.008667",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.004031",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.007794",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.029226",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.019686",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.083042",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.006181",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.005711",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.008331",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.013975",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.142838",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.044209",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.036818",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.001814",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.191884",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "20000",
+          "upper_bound": "24999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "300",
+          "upper_bound": "399"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3649,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1263800875048281.png",
+          "filename": "1263800875048281.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3649",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:24Z",
+    "ad_keys": {
+      "ad_external_id": "1122200543173979",
+      "ad_pk": 11,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1122200543173979",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-14",
+        "ad_creative_bodies": [
+          "Netto Null 2050 ist ein klarer Auftrag – und die Bauwirtschaft arbeitet mit Hochdruck daran. Ein Sanierungsstopp würde diesen Prozess blockieren. Darum sagt Christoph Schaer, Co-Präsident aeesuisse und Direktor suissetec, klar NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1122200543173979&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.092857",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.247619",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002381",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.090476",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.321429",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.004762",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.057143",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.183333",
+            "age": "65+",
+            "gender": "male"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.085511",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.023753",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.016627",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.019002",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.016627",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.007126",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.021378",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.045131",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.038005",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.026128",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.004751",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.007126",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.002375",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.004751",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.021378",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.019002",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.090261",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.004751",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.007126",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.002375",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.011876",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.206651",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.04038",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.035629",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.002375",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.239905",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3647,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1122200543173979.png",
+          "filename": "1122200543173979.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3647",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:26Z",
+    "ad_keys": {
+      "ad_external_id": "1166046542030168",
+      "ad_pk": 12,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1166046542030168",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-16",
+        "ad_creative_bodies": [
+          "FDP-Ständerat Pascal Broulis warnt: Der Sanierungsstopp würde die Investitionsdynamik im Klimabereich zerstören. Deshalb ruft er alle auf, NEIN zu stimmen.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1166046542030168&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.156503",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.197858",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.004476",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.17873",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.212854",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003558",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.120008",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.123259",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002754",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.103248",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.054202",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.014782",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.023083",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.024031",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.004397",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.016602",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.045408",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.051473",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.021188",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.011333",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.01031",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.004131",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.006481",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.029185",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.021567",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.081681",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.004435",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.004852",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.008149",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.017435",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.131372",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.043399",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.048478",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.001554",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.217223",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "40000",
+          "upper_bound": "44999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "700",
+          "upper_bound": "799"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3648,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1166046542030168.png",
+          "filename": "1166046542030168.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3648",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:31Z",
+    "ad_keys": {
+      "ad_external_id": "1404711043930622",
+      "ad_pk": 15,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1404711043930622",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-11",
+        "ad_creative_bodies": [
+          "Für die Bauwirtschaft sind Abzüge für Unterhalt und energetische Sanierungen zentrale Anreize. Ohne diese fehlt Planungssicherheit – für Wirtschaft und Klimaziele. Deshalb sagt Cristina Schaffner, Direktorin Bauenschweiz, am 28. September NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1404711043930622&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3651,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1404711043930622.png",
+          "filename": "1404711043930622.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3651",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:33Z",
+    "ad_keys": {
+      "ad_external_id": "1695542541163751",
+      "ad_pk": 17,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1695542541163751",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-13",
+        "ad_creative_bodies": [
+          "FDP-Ständerat Pascal Broulis warnt: Der Sanierungsstopp würde die Investitionsdynamik im Klimabereich zerstören. Deshalb ruft er alle auf, NEIN zu stimmen.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1695542541163751&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.067873",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.126697",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.004525",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.158371",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.217195",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.004525",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.19457",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.226244",
+            "age": "65+",
+            "gender": "male"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.070485",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.035242",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.004405",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.044053",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.026432",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.004405",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.048458",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.039648",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.022026",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.026432",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.008811",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.013216",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.030837",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.004405",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.017621",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.0837",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.004405",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.004405",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.008811",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.026432",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.198238",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.017621",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.039648",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.004405",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.215859",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3653,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1695542541163751.png",
+          "filename": "1695542541163751.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3653",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:36Z",
+    "ad_keys": {
+      "ad_external_id": "772352375387896",
+      "ad_pk": 9,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "772352375387896",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-17",
+        "ad_creative_bodies": [
+          "FDP-Ständerat Pascal Broulis warnt: Der Sanierungsstopp würde die Investitionsdynamik im Klimabereich zerstören. Deshalb ruft er alle auf, NEIN zu stimmen.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=772352375387896&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.01686",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.083862",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.132472",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.091964",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.005474",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.150427",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.082549",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.003941",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.040946",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.096124",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.00219",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.074885",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.030436",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.003503",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.125027",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.026932",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.028684",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.003722",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.071893",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.045483",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.014253",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.033746",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.016139",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.003354",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.019283",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.032278",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.034374",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.017397",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.013834",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.01069",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.003354",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.00524",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.025362",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.01551",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.064137",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.00503",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.003144",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.005869",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.031859",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.189268",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.029554",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.051562",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.001677",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.255712",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "6000",
+          "upper_bound": "6999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3645,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/772352375387896.png",
+          "filename": "772352375387896.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3645",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:44Z",
+    "ad_keys": {
+      "ad_external_id": "1998586820889868",
+      "ad_pk": 4,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-02"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1998586820889868",
+        "ad_creation_time": "2025-09-02",
+        "ad_delivery_start_time": "2025-09-02",
+        "ad_delivery_stop_time": "2025-09-07",
+        "ad_creative_bodies": [
+          "Vorschau auf die Herbstsession 2025 - Claudia Steinmann diskutiert mit den beiden Zürcher Nationalräten Priska Seiler Graf, SP und Beat Walti FDP über 39 Prozent US-Einfuhrzölle, den vermeintlichen Fixpreis für neue Kampfjets und die drohenden Gefahren u.a. der Isolation und des Reputationsschadens rund um die «Neutralitätsinitiative»…\n\nHier geht's direkt zur Sendung: https://bit.ly/47obuXr\nKonkret gibt es auch als Podcast - überall dort wo Sie auch sonst Ihre Podcasts hören!\n\nTELE Z empfangen Sie u.a.: \nSwisscom: Kanal 52 \nUPC: Kanal 90 \nSunrise Kanal: 233 \nÜber die Streamingdienste: Zattoo Schweiz und Teleboy oder online über www.telez.ch \n#Konkret #Host #ClaudiaSteinmann #Diskussion #Aktuell #Neugier #information #TeleZ, #talkshow #UrsulaZybach #GregorRutz #SP #SVP #Eigenmietwert #Casafair HEV Schweiz\n#Steuerausfälle #Objektsteuer #Abschaffung #Schwarzarbeit #Steuerabzüge #Sanierungen #Investitionen"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1998586820889868&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.004646",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.131573",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.134952",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.087434",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.003168",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.123337",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.078775",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.004224",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.082999",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.022175",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002323",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.141288",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.057656",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.001478",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.088279",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.03189",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000845",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.002957",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.090947",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.045265",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.016479",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.030663",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.020442",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.005215",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.000209",
+            "region": "Unknown"
+          },
+          {
+            "percentage": "0.021068",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.03713",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.037964",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.021485",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.015227",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.012724",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.002086",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.00438",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.028369",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.01773",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.071756",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.006466",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.00292",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.008344",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.04005",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.10972",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.022737",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.044848",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.001252",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.284522",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "8000",
+          "upper_bound": "8999"
+        },
+        "page_id": "784812424962943",
+        "page_name": "Tele Z",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "TELE Z",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3640,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1998586820889868.png",
+          "filename": "1998586820889868.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3640",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:47Z",
+    "ad_keys": {
+      "ad_external_id": "1738794596753666",
+      "ad_pk": 18,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "1738794596753666",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-16",
+        "ad_creative_bodies": [
+          "Für die Bauwirtschaft sind Abzüge für Unterhalt und energetische Sanierungen zentrale Anreize. Ohne diese fehlt Planungssicherheit – für Wirtschaft und Klimaziele. Deshalb sagt Cristina Schaffner, Direktorin Bauenschweiz, am 28. September NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1738794596753666&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.000992",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.144544",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.140954",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.086207",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002315",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.190742",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.097733",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002834",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.064714",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002315",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002362",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.134436",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.05418",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000425",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.05522",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.018092",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "4.7E-5",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.001889",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.109913",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.0664",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.01474",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.015258",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.024158",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.005227",
+            "region": "Uri"
+          },
+          {
+            "percentage": "4.7E-5",
+            "region": "Unknown"
+          },
+          {
+            "percentage": "0.008995",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.047846",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.057782",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.025901",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.016294",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.006687",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.003579",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.0081",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.029668",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.019779",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.085142",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.007017",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.006075",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.007911",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.008571",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.157146",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.045255",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.034566",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.002072",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.185872",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "30000",
+          "upper_bound": "34999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "300",
+          "upper_bound": "399"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3654,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/1738794596753666.png",
+          "filename": "1738794596753666.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3654",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-23T15:07:50Z",
+    "ad_keys": {
+      "ad_external_id": "752949874015717",
+      "ad_pk": 8,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-01"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "752949874015717",
+        "ad_creation_time": "2025-09-01",
+        "ad_delivery_start_time": "2025-09-01",
+        "ad_delivery_stop_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "Netto Null 2050 ist ein klarer Auftrag – und die Bauwirtschaft arbeitet mit Hochdruck daran. Ein Sanierungsstopp würde diesen Prozess blockieren. Darum sagt Christoph Schaer, Co-Präsident aeesuisse und Direktor suissetec, klar NEIN.\n\n#SanierungsstoppNein #Eigenmietwert #chvote #Abstimmungssontag #Schweiz #28September"
+        ],
+        "ad_creative_link_captions": [
+          "sanierungsstopp-nein.ch"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=752949874015717&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.001997",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.12405",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.111995",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.07483",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.00189",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.14809",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.082962",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.001962",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.064165",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.003888",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.002711",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.18258",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.083033",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000927",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.083069",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.030495",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000107",
+            "age": "18-24",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.001248",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.103632",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.066257",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.014038",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.020249",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.022179",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.005194",
+            "region": "Uri"
+          },
+          {
+            "percentage": "3.5E-5",
+            "region": "Unknown"
+          },
+          {
+            "percentage": "0.010774",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.045061",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.052992",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.024074",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.013897",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.008387",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.003229",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.00765",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.028286",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.020881",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.088647",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.005826",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.005334",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.007405",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.013757",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.142376",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.038463",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.041867",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.002281",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.207229",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "40000",
+          "upper_bound": "44999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "600",
+          "upper_bound": "699"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 3644,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-03/752949874015717.png",
+          "filename": "752949874015717.png",
+          "date_folder": "2025-09-03"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-23",
+        "screenshot_id": "media:3644",
+        "geeignet": true,
+        "analyse": {}
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  }
+]

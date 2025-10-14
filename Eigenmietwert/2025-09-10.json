@@ -1,0 +1,2814 @@
+[
+  {
+    "id": "1051114340431973",
+    "ad_creation_time": "2025-09-09",
+    "ad_delivery_start_time": "2025-09-09",
+    "ad_creative_bodies": [
+      "«Eine solche Chance kommt nicht so schnell wieder», sagt Martin Bäumle. Der Grünliberale-Politiker setzt sich entschlossen für die Streichung des Eigenmietwerts ein, auch wenn seine eigene Partei keine Parole gefasst hat.\nWarum er überzeugt ist, dass die Reform fairer und wirtschaftlich sinnvoller ist.\n\n🔗 Mehr dazu im Tages-Anzeiger Artikel 👉 bit.ly/47ujkyP \n\n#EigenmietwertAbschaffen #FaireSteuern #Eigenmietwert #Wohneigentum #Abst25 #CHVote #Bundesbeschluss #Zweitwohnungssteuer"
+    ],
+    "ad_creative_link_captions": [
+      "faire-steuern.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Hey! Hast du bereits abgestimmt? 🗳️ Am 28. September haben wir endlich die Chance, die Eigenmietwert-Steuer abzuschaffen. Diese ungerechte Steuer belastet nämlich viele Schweizerinnen und Schweizer schon seit Jahrzehnten. 😮‍💨💰 ⏰ Es bleibt nicht mehr viel Zeit. Stimme heute noch ab..."
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1051114340431973&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.01406",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.003515",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.059754",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.086116",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.096661",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.13181",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.005272",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.094903",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.12478",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.001757",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.096661",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.107206",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.003515",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.080844",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.093146",
+        "age": "65+",
+        "gender": "male"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.073814",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.017575",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.008787",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.091388",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.052724",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.001757",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.049209",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.02812",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.035149",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.019332",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.019332",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.033392",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.012302",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.003515",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.031634",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.050967",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.063269",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.003515",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.00703",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.089631",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.110721",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.024605",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.02109",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.151142",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "0",
+      "upper_bound": "999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "1000001"
+    }
+  },
+  {
+    "id": "1771940166762195",
+    "ad_creation_time": "2025-09-09",
+    "ad_delivery_start_time": "2025-09-09",
+    "ad_creative_bodies": [
+      "Ein Steuersystem, das Schuldner belohnt und Eigentümer bestraft, ist untauglich.\nDer Eigenmietwert verursacht hohen Verwaltungsaufwand, verschafft Banken Gewinne und widerspricht dem gesunden Menschenverstand. Jetzt ist die historische Chance da, ihn abzuschaffen.\n\n👉 Mehr dazu im Beobachter-Artikel: https://bit.ly/42413Fd\n\n#EigenmietwertAbschaffen #FaireSteuern #Geistersteuer #Eigenmietwert #Wohneigentum #Abst25 #CHVote #Bundesbeschluss #Zweitwohnungssteuer"
+    ],
+    "ad_creative_link_captions": [
+      "faire-steuern.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Hey! Hast du bereits abgestimmt? 🗳️ Am 28. September haben wir endlich die Chance, die Eigenmietwert-Steuer abzuschaffen. Diese ungerechte Steuer belastet nämlich viele Schweizerinnen und Schweizer schon seit Jahrzehnten. 😮‍💨💰 ⏰ Es bleibt nicht mehr viel Zeit. Stimme heute noch ab..."
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1771940166762195&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.032432",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.037838",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.043243",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.064865",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.097297",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.059459",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.221622",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.167568",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.27027",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.005405",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.091892",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.043243",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.021622",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.016216",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.010811",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.048649",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.075676",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.037838",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.010811",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.010811",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.021622",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.010811",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.010811",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.032432",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.010811",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.102703",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.005405",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.005405",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.005405",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.102703",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.064865",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.027027",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.005405",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.227027",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "0",
+      "upper_bound": "999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "1000001"
+    }
+  },
+  {
+    "id": "3300086033481672",
+    "ad_creation_time": "2025-09-09",
+    "ad_delivery_start_time": "2025-09-09",
+    "ad_creative_bodies": [
+      "«Sparen wird bestraft, Schuldenmachen belohnt» - so kritisieren Seniorenvertreter den Eigenmietwert.\nMit dem Komitee Faire Steuern für Senioren fordern sie eine Entlastung für Rentnerinnen und Rentner, die im Alter besonders hart getroffen werden.\n\n👉 Mehr dazu im Artikel der Handelszeitung: https://bit.ly/47tHCsR\n\n#EigenmietwertAbschaffen #FaireSteuern #Geistersteuer #Eigenmietwert #Wohneigentum #Abst25 #CHVote #Bundesbeschluss #Zweitwohnungssteuer"
+    ],
+    "ad_creative_link_captions": [
+      "faire-steuern.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Hey! Hast du bereits abgestimmt? 🗳️ Am 28. September haben wir endlich die Chance, die Eigenmietwert-Steuer abzuschaffen. Diese ungerechte Steuer belastet nämlich viele Schweizerinnen und Schweizer schon seit Jahrzehnten. 😮‍💨💰 ⏰ Es bleibt nicht mehr viel Zeit. Stimme heute noch ab..."
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=3300086033481672&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.005814",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.023256",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.017442",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.023256",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.052326",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.02907",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.093023",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.063953",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.215116",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.174419",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.302326",
+        "age": "65+",
+        "gender": "male"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.122093",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.011628",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.011628",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.063953",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.02907",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.011628",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.011628",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.046512",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.087209",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.017442",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.017442",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.069767",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.005814",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.023256",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.040698",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.005814",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.075581",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.005814",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.023256",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.122093",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.034884",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.005814",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.156977",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "0",
+      "upper_bound": "999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "1000001"
+    }
+  },
+  {
+    "id": "1245967393946609",
+    "ad_creation_time": "2025-09-09",
+    "ad_delivery_start_time": "2025-09-09",
+    "ad_creative_bodies": [
+      "«Sparen wird bestraft, Schuldenmachen belohnt» - so kritisieren Seniorenvertreter den Eigenmietwert.\nMit dem Komitee Faire Steuern für Senioren fordern sie eine Entlastung für Rentnerinnen und Rentner, die im Alter besonders hart getroffen werden.\n\n👉 Mehr dazu im Artikel der Handelszeitung: https://bit.ly/47tHCsR\n\n#EigenmietwertAbschaffen #FaireSteuern #Geistersteuer #Eigenmietwert #Wohneigentum #Abst25 #CHVote #Bundesbeschluss #Zweitwohnungssteuer"
+    ],
+    "ad_creative_link_captions": [
+      "faire-steuern.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Hey! Hast du bereits abgestimmt? 🗳️ Am 28. September haben wir endlich die Chance, die Eigenmietwert-Steuer abzuschaffen. Diese ungerechte Steuer belastet nämlich viele Schweizerinnen und Schweizer schon seit Jahrzehnten. 😮‍💨💰 ⏰ Es bleibt nicht mehr viel Zeit. Stimme heute noch ab..."
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1245967393946609&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.004184",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.008368",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.029289",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.029289",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.054393",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.033473",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.096234",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.112971",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.179916",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.171548",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.280335",
+        "age": "65+",
+        "gender": "male"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.079498",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.050209",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.041841",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.062762",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.004184",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.058577",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.037657",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.041841",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.004184",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.012552",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.025105",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.008368",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.008368",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.037657",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.033473",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.100418",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.004184",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.008368",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.033473",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.125523",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.050209",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.020921",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.150628",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "0",
+      "upper_bound": "999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "1000001"
+    }
+  },
+  {
+    "id": "1745991582769525",
+    "ad_creation_time": "2025-09-09",
+    "ad_delivery_start_time": "2025-09-09",
+    "ad_creative_bodies": [
+      "👉 Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen! 👈\n\nHeute noch Kreide – morgen Realität 🏡\n\nEin JA macht den Traum vom Eigenheim fair und bezahlbar.\n\nSo profitieren Jung und Alt. Nur mit einem JA zur kantonal möglichen Zweitwohnungssteuer schaffen wir den Eigenmietwert endlich ab und sichern faire Chancen für kommende Generationen.\n\nJetzt Abstimmungscouvert öffnen und abstimmen! 🗳️\n\n🔗 Freunde & Familie an die Abstimmung erinnern: https://bit.ly/3JPKNkM\n\n👉 Mehr Informationen: faire-steuern.ch\n\n#EigenmietwertAbschaffen #FaireSteuern #Geistersteuer #Eigenmietwert #Wohneigentum #Abst25 #CHVote #Bundesbeschluss #Zweitwohnungssteuern"
+    ],
+    "ad_creative_link_captions": [
+      "faire-steuern.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Hey! Hast du bereits abgestimmt? 🗳️ Am 28. September haben wir endlich die Chance, die Eigenmietwert-Steuer abzuschaffen. Diese ungerechte Steuer belastet nämlich viele Schweizerinnen und Schweizer schon seit Jahrzehnten. 😮‍💨💰 ⏰ Es bleibt nicht mehr viel Zeit. Stimme heute noch ab..."
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1745991582769525&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.010152",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.040609",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.035533",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.030457",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.025381",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.045685",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.096447",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.121827",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.192893",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.152284",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.248731",
+        "age": "65+",
+        "gender": "male"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.106599",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.040609",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.010152",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.055838",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.030457",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.010152",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.045685",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.055838",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.035533",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.015228",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.010152",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.005076",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.045685",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.010152",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.030457",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.035533",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.096447",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.030457",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.086294",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.071066",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.015228",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.15736",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "0",
+      "upper_bound": "999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "1000001"
+    }
+  },
+  {
+    "id": "633552126163109",
+    "ad_creation_time": "2025-09-05",
+    "ad_delivery_start_time": "2025-09-05",
+    "ad_creative_bodies": [
+      "Esther Friedli, Ständerätin SVP Kanton St. Gallen, sagt JA zur Abschaffung des Eigenmietwerts ✅\n\nDie Eigenmietwert-Steuer wird auf Mieteinnahmen erhoben, die es gar nicht gibt. Das ist willkürlich und ungerecht.\n\nJA zur Abschaffung des Eigenmietwerts am 28. September! 🗳️\n\n🔗 Jetzt informieren: faire-steuern.ch\n\n#EigenmietwertAbschaffen #FaireSteuern #Eigenmietwert #Wohneigentum #Abst25 #CHVote\n\nSVP Schweiz, Junge SVP Schweiz, HEV Schweiz, HEV Kanton St.Gallen"
+    ],
+    "ad_creative_link_captions": [
+      "bit.ly"
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=633552126163109&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.000616",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.001541",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.012018",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.042835",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.000308",
+        "age": "25-34",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.031433",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.094607",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.049615",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.139599",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.000924",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.106934",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.212635",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.001849",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.103236",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.200616",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.001233",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.096633",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.055486",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.013404",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.005923",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.025249",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.005923",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.00717",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.055486",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.054863",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.024002",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.017768",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.003429",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.002805",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.020885",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.044264",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.016209",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.153367",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.011222",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.005611",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.009352",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.003429",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.156796",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.031172",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.023379",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.009663",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.146509",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "3000",
+      "upper_bound": "3999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "100001",
+      "upper_bound": "500000"
+    }
+  },
+  {
+    "id": "1708020667253895",
+    "ad_creation_time": "2025-09-05",
+    "ad_delivery_start_time": "2025-09-05",
+    "ad_creative_bodies": [
+      "Esther Friedli, Ständerätin SVP Kanton St. Gallen, sagt JA zur Abschaffung des Eigenmietwerts ✅\n\nDie Eigenmietwert-Steuer wird auf Mieteinnahmen erhoben, die es gar nicht gibt. Das ist willkürlich und ungerecht.\n\nJA zur Abschaffung des Eigenmietwerts am 28. September! 🗳️\n\n🔗 Jetzt informieren: faire-steuern.ch\n\n#EigenmietwertAbschaffen #FaireSteuern #Eigenmietwert #Wohneigentum #Abst25 #CHVote\n\nSVP Schweiz, Junge SVP Schweiz, HEV Schweiz, HEV Kanton St.Gallen"
+    ],
+    "ad_creative_link_captions": [
+      "bit.ly"
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1708020667253895&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.000413",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.001033",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.011368",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.011575",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.039686",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.035345",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.000207",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.090533",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.064076",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.001654",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.229847",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.116577",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.00124",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.272427",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.122158",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.00186",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.110471",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.054104",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.013577",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.004937",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.032915",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.006172",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.012549",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.05719",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.06151",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.030241",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.0144",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.00288",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.003909",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.010697",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.041144",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.02016",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.093808",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.012137",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.006377",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.01008",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.003909",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.18597",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.04135",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.023658",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.00288",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.142975",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "5000",
+      "upper_bound": "5999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "100001",
+      "upper_bound": "500000"
+    }
+  },
+  {
+    "id": "1153895676588497",
+    "ad_creation_time": "2025-08-26",
+    "ad_delivery_start_time": "2025-08-26",
+    "ad_creative_bodies": [
+      "Gerade junge Familien spüren die Belastung: hohe Preise, Zinsen und die Eigenmietwert-Steuer.\n\nDer Traum vom Eigenheim bleibt – doch der Eigenmietwert macht ihn noch schwerer erreichbar.\n\n🗳️ Darum JA am 28. September zu fairen Steuern und zur Entlasung von Familien.\n\n🔗 Jetzt informieren: faire-steuern.ch"
+    ],
+    "ad_creative_link_captions": [
+      "hev-sh.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Ein überparteiliches Komitee mit Vertreterinnen und Vertretern von Die Mitte, FDP, GLP und SVP setzt sich für die Abschaﬀung des Eigenmietwerts ein. Die Reform entlastet den Mittelstand – insbesondere junge Familien, Ersterwerber sowie Rentnerinnen und Rentner – und schaﬀt die internationa..."
+    ],
+    "ad_creative_link_titles": [
+      "«JA zur Abschaffung des Eigenmietwerts»"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1153895676588497&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.188943",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.325414",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.00287",
+        "age": "25-34",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.119198",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.179645",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.002944",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.065385",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.099745",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.002366",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.005441",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.007807",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.000224",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "1.9E-5",
+        "age": "Unknown",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.027824",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.005166",
+        "region": "Baden-Württemberg"
+      },
+      {
+        "percentage": "0.288864",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.063133",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.615013",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "125000",
+      "upper_bound": "149999"
+    },
+    "page_id": "317562211434476",
+    "page_name": "HEV Schaffhausen",
+    "publisher_platforms": [
+      "instagram"
+    ],
+    "spend": {
+      "lower_bound": "300",
+      "upper_bound": "399"
+    },
+    "bylines": "HEV Schaffhausen",
+    "estimated_audience_size": {
+      "lower_bound": "50001",
+      "upper_bound": "100000"
+    },
+    "age_country_gender_reach_breakdown": [
+      {
+        "country": "DE",
+        "age_gender_breakdowns": [
+          {
+            "age_range": "55-64",
+            "male": 1,
+            "female": 3
+          },
+          {
+            "age_range": "45-54",
+            "male": 35,
+            "female": 19,
+            "unknown": 1
+          },
+          {
+            "age_range": "35-44",
+            "male": 52,
+            "female": 29
+          },
+          {
+            "age_range": "25-34",
+            "male": 100,
+            "female": 73
+          }
+        ]
+      }
+    ],
+    "eu_total_reach": 303,
+    "target_ages": [
+      "25",
+      "55"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+      {
+        "name": "Deutschland",
+        "num_obfuscated": 0,
+        "type": "countries",
+        "excluded": true
+      }
+    ],
+    "total_reach_by_location": [
+      {
+        "key": "EU",
+        "value": 303
+      }
+    ]
+  },
+  {
+    "id": "2731747413883513",
+    "ad_creation_time": "2025-08-26",
+    "ad_delivery_start_time": "2025-08-26",
+    "ad_creative_bodies": [
+      "Gerade junge Familien spüren die Belastung: hohe Preise, Zinsen und die Eigenmietwert-Steuer.\n\nDer Traum vom Eigenheim bleibt – doch der Eigenmietwert macht ihn noch schwerer erreichbar.\n\n🗳️ Darum JA am 28. September zu fairen Steuern und zur Entlasung von Familien.\n\n🔗 Jetzt informieren: faire-steuern.ch"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2731747413883513&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.078668",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.174663",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.00189",
+        "age": "25-34",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.120359",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.262182",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.004079",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.113679",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.210741",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.003368",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.011602",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.018675",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "9.4E-5",
+        "age": "55-64",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.022864",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.004198",
+        "region": "Baden-Württemberg"
+      },
+      {
+        "percentage": "0.287606",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.078843",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.60649",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "150000",
+      "upper_bound": "174999"
+    },
+    "page_id": "317562211434476",
+    "page_name": "HEV Schaffhausen",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "300",
+      "upper_bound": "399"
+    },
+    "bylines": "HEV Schaffhausen",
+    "estimated_audience_size": {
+      "lower_bound": "100001",
+      "upper_bound": "500000"
+    },
+    "age_country_gender_reach_breakdown": [
+      {
+        "country": "DE",
+        "age_gender_breakdowns": [
+          {
+            "age_range": "55-64",
+            "male": 4,
+            "female": 3
+          },
+          {
+            "age_range": "45-54",
+            "male": 57,
+            "female": 20,
+            "unknown": 1
+          },
+          {
+            "age_range": "35-44",
+            "male": 74,
+            "female": 16
+          },
+          {
+            "age_range": "25-34",
+            "male": 34,
+            "female": 23,
+            "unknown": 1
+          }
+        ]
+      }
+    ],
+    "eu_total_reach": 233,
+    "target_ages": [
+      "25",
+      "55"
+    ],
+    "target_gender": "All",
+    "target_locations": [
+      {
+        "name": "Deutschland",
+        "num_obfuscated": 0,
+        "type": "countries",
+        "excluded": true
+      }
+    ],
+    "total_reach_by_location": [
+      {
+        "key": "EU",
+        "value": 233
+      }
+    ]
+  },
+  {
+    "id": "2491934481185284",
+    "ad_creation_time": "2025-08-20",
+    "ad_delivery_start_time": "2025-08-25",
+    "ad_creative_bodies": [
+      "JA zur Abschaffung des Eigenmietwerts am 28. September!"
+    ],
+    "ad_creative_link_captions": [
+      "faire-steuern.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Hey! Am 28. September können wir gemeinsam den ungerechten Eigenmietwert abschaffen – eine echte Belastung für viele Steuerzahler. 😮‍💨💰 Das ist unsere Chance auf faire Steuern. 💪"
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=2491934481185284&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.02735",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.14359",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.041026",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.037037",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.003419",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.104843",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.072934",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.005128",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.087179",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.032479",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.004558",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.156695",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.083191",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.006268",
+        "age": "25-34",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.109402",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.074074",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.009687",
+        "age": "18-24",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.00114",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "1",
+        "region": "Thurgau"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "1000",
+      "upper_bound": "1999"
+    },
+    "page_id": "104109477909955",
+    "page_name": "HEV Thurgau",
+    "publisher_platforms": [
+      "facebook",
+      "instagram"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "bylines": "Hauseigentümerverband Thurgau",
+    "estimated_audience_size": {
+      "lower_bound": "100001",
+      "upper_bound": "500000"
+    }
+  },
+  {
+    "id": "696521806595162",
+    "ad_creation_time": "2025-08-21",
+    "ad_delivery_start_time": "2025-08-21",
+    "ad_delivery_stop_time": "2025-08-25",
+    "ad_creative_link_captions": [
+      "instagram.com",
+      "instagram.com",
+      "instagram.com",
+      "instagram.com",
+      "instagram.com",
+      "instagram.com",
+      "instagram.com"
+    ],
+    "ad_creative_link_titles": [
+      "Faire Steuern - JA am 28.09. (@faire_steuern_ch) • Instagram photos and videos",
+      "Faire Steuern - JA am 28.09. (@faire_steuern_ch) • Instagram photos and videos",
+      "Faire Steuern - JA am 28.09. (@faire_steuern_ch) • Instagram photos and videos",
+      "Faire Steuern - JA am 28.09. (@faire_steuern_ch) • Instagram photos and videos",
+      "Faire Steuern - JA am 28.09. (@faire_steuern_ch) • Instagram photos and videos",
+      "Faire Steuern - JA am 28.09. (@faire_steuern_ch) • Instagram photos and videos",
+      "Faire Steuern - JA am 28.09. (@faire_steuern_ch) • Instagram photos and videos"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=696521806595162&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.001103",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.129272",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.219956",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.073043",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.001929",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.207001",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.071114",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.001103",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.044377",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.028942",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.000551",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.112459",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.019019",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.07828",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.009647",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.000551",
+        "age": "18-24",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.001654",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.099111",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.056289",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.01185",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.018853",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.017775",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.005117",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.000269",
+        "region": "Unknown"
+      },
+      {
+        "percentage": "0.032858",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.0439",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.038783",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.028279",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.01212",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.005925",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.002963",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.00781",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.034204",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.012928",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.078912",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.00808",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.005925",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.007541",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.022085",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.190951",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.028818",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.02774",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.002424",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.198492",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "5000",
+      "upper_bound": "5999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "instagram"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "50001",
+      "upper_bound": "100000"
+    }
+  },
+  {
+    "id": "780792837816589",
+    "ad_creation_time": "2025-08-21",
+    "ad_delivery_start_time": "2025-08-21",
+    "ad_delivery_stop_time": "2025-08-26",
+    "ad_creative_bodies": [
+      "Schluss mit dem Eigenmietwert! ✅\n\nAn der heutigen Medienkonferenz haben National- und Ständeräte über alle Parteigrenzen hinweg klargemacht: Die Eigenmietwert-Steuer ist nicht mehr zeitgemäss. Sie ist ungerecht, widerspricht der Bundesverfassung und trifft vor allem Familien, Rentner und Erstkäufer. Jetzt ist der Moment, ein überholtes Modell zu beenden und ein faires Steuersystem zu schaffen 🏠.\n\nAm 28. September sagen wir gemeinsam JA zur Abschaffung des Eigenmietwerts! 🗳️\n\n👉  Pressemitteilung: http://bit.ly/472eKYn\n\n#EigenmietwertAbschaffen #FaireSteuern #Geistersteuer #Eigenmietwert #Wohneigentum #Abst25 #CHVote\nHEV Schweiz Grünliberale Junge Grünliberale SVP Schweiz Junge SVP Schweiz FDP Jungfreisinnige Schweiz EDU - UDF (Eidgenössisch-Demokratische Union) Die Mitte - Le Centre"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=780792837816589&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.00105",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.100761",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.197061",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.114406",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.001574",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.164786",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.091052",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.00105",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.043296",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.006035",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.000262",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.108895",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.032275",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.106009",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.027814",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.000262",
+        "age": "18-24",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.003411",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.096094",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.045313",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.013021",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.02526",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.022917",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.004948",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.035677",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.048958",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.048958",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.026563",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.014323",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.010677",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.002865",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.009115",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.021094",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.01901",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.107552",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.005469",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.003125",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.007552",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.017969",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.15026",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.040365",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.027604",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.001042",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.194271",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "6000",
+      "upper_bound": "6999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "1000001"
+    }
+  },
+  {
+    "id": "805212498866335",
+    "ad_creation_time": "2025-09-05",
+    "ad_delivery_start_time": "2025-09-05",
+    "ad_creative_bodies": [
+      "Der Blick zeigt, warum besonders viele Rentner vom Eigenmietwert betroffen sind und wie stark sie durch die Abschaffung entlastet werden. 88 % der Rentnerhaushalte würden bei einem Ja weniger Steuern zahlen. Wer im Alter schuldenfrei lebt, wird heute vom Eigenmietwert besonders hart getroffen.\n\n🔗 Mehr dazu im Blick Artikel 👉 http://bit.ly/3I2ZdgQ \n\n#EigenmietwertAbschaffen #FaireSteuern #Eigenmietwert #Wohneigentum #Abst25 #CHVote #Bundesbeschluss #Zweitwohnungssteuer"
+    ],
+    "ad_creative_link_captions": [
+      "faire-steuern.ch"
+    ],
+    "ad_creative_link_descriptions": [
+      "Hey! Am 28. September können wir gemeinsam den ungerechten Eigenmietwert abschaffen – eine echte Belastung für viele Steuerzahler. 😮‍💨💰 Das ist unsere Chance auf faire Steuern. 💪"
+    ],
+    "ad_creative_link_titles": [
+      "JA zur Abschaffung des Eigenmietwerts"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=805212498866335&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.001335",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.001335",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.004673",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.014019",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.014019",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.044726",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.047397",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.102136",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.001335",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.112817",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.219626",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.000668",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.154206",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.276368",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.00534",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.121676",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.048537",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.011303",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.011303",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.026596",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.009309",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.015957",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.0625",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.060505",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.023936",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.015293",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.005984",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.00266",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.010638",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.034574",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.013298",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.110372",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.005319",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.003989",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.008644",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.007314",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.133644",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.071144",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.024601",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.00133",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.159574",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "2000",
+      "upper_bound": "2999"
+    },
+    "page_id": "624056340799105",
+    "page_name": "JA zu fairen Steuern",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+    "estimated_audience_size": {
+      "lower_bound": "100001",
+      "upper_bound": "500000"
+    }
+  },
+  {
+    "id": "1241198737442594",
+    "ad_creation_time": "2025-06-10",
+    "ad_delivery_start_time": "2025-06-10",
+    "ad_delivery_stop_time": "2025-06-14",
+    "ad_creative_bodies": [
+      "«Sollen Rentnerinnen und Rentner im Kanton Zürich ihr aus oder ihre Wohnung verkaufen müssen, um die Steuern für den höheren Eigenmietwert bezahlen zu können?» - Claudia Steinmann im Gespräch mit den Zürcher Kantonsräten Jasmin  Pokerschnig, Grüne und Donato Scognamiglio, EVP über die Wiedereinführung einer Härtefallklausel für Wohneigentum im Kanton Zürich\n\nTele Z empfangen Sie u.a.: \nSwisscom: Kanal 52 \nUPC: Kanal 90 \nSunrise Kanal: 233 \nÜber die Streamingdienste: Zattoo Schweiz und Teleboy oder online über www.telez.ch \n\n#Konkret #Host #ClaudiaSteinmann #Diskussion #Aktuell #Neugier #information #TeleZ, #talkshow, #DonatoScognamiglio, #EVP, #JasminPokerschnig, #Grüne, #Eigenmietwert, #Abstimmung, #28September, #Härtefallklausel, #Wohneigentum, #Verschuldung, #Zinssatz, #Steuerausfälle, #Kanton, #Gemeinden, #Investitionen, #Handwerker, #Baumeister, Kanton Zürich, #Objektsteuer, #Sanierungen, #Steuerbelastung, #Einkommenssteuer, #Vermögenssteuer"
+    ],
+    "ad_creative_link_captions": [
+      "www.telez.ch"
+    ],
+    "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=1241198737442594&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+    "currency": "CHF",
+    "demographic_distribution": [
+      {
+        "percentage": "0.000652",
+        "age": "18-24",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.162444",
+        "age": "45-54",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.117362",
+        "age": "65+",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.077124",
+        "age": "65+",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.00149",
+        "age": "55-64",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.189363",
+        "age": "55-64",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.080197",
+        "age": "55-64",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.002142",
+        "age": "45-54",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.040425",
+        "age": "45-54",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.002422",
+        "age": "18-24",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.001956",
+        "age": "35-44",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.181259",
+        "age": "35-44",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.035395",
+        "age": "35-44",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.000186",
+        "age": "25-34",
+        "gender": "unknown"
+      },
+      {
+        "percentage": "0.094169",
+        "age": "25-34",
+        "gender": "male"
+      },
+      {
+        "percentage": "0.012388",
+        "age": "25-34",
+        "gender": "female"
+      },
+      {
+        "percentage": "0.001025",
+        "age": "65+",
+        "gender": "unknown"
+      }
+    ],
+    "delivery_by_region": [
+      {
+        "percentage": "0.111285",
+        "region": "Aargau"
+      },
+      {
+        "percentage": "0.061478",
+        "region": "Luzern"
+      },
+      {
+        "percentage": "0.013417",
+        "region": "Zug"
+      },
+      {
+        "percentage": "0.009833",
+        "region": "Vaud"
+      },
+      {
+        "percentage": "0.017736",
+        "region": "Valais"
+      },
+      {
+        "percentage": "0.005146",
+        "region": "Uri"
+      },
+      {
+        "percentage": "0.001103",
+        "region": "Unknown"
+      },
+      {
+        "percentage": "0.007627",
+        "region": "Ticino"
+      },
+      {
+        "percentage": "0.051829",
+        "region": "Thurgau"
+      },
+      {
+        "percentage": "0.056515",
+        "region": "Solothurn"
+      },
+      {
+        "percentage": "0.028028",
+        "region": "Schwyz"
+      },
+      {
+        "percentage": "0.017092",
+        "region": "Schaffhausen"
+      },
+      {
+        "percentage": "0.00487",
+        "region": "Neuchâtel"
+      },
+      {
+        "percentage": "0.001838",
+        "region": "Jura"
+      },
+      {
+        "percentage": "0.009925",
+        "region": "Appenzell Ausserrhoden"
+      },
+      {
+        "percentage": "0.032715",
+        "region": "Graubünden"
+      },
+      {
+        "percentage": "0.016082",
+        "region": "Fribourg"
+      },
+      {
+        "percentage": "0.090057",
+        "region": "Canton of St. Gallen"
+      },
+      {
+        "percentage": "0.005973",
+        "region": "Canton of Obwalden"
+      },
+      {
+        "percentage": "0.004687",
+        "region": "Canton of Nidwalden"
+      },
+      {
+        "percentage": "0.010476",
+        "region": "Canton of Glarus"
+      },
+      {
+        "percentage": "0.008362",
+        "region": "Canton of Geneva"
+      },
+      {
+        "percentage": "0.167065",
+        "region": "Bern"
+      },
+      {
+        "percentage": "0.034093",
+        "region": "Basel-Landschaft"
+      },
+      {
+        "percentage": "0.035931",
+        "region": "Basel-City"
+      },
+      {
+        "percentage": "0.002849",
+        "region": "Appenzell Innerrhoden"
+      },
+      {
+        "percentage": "0.19399",
+        "region": "Zürich"
+      }
+    ],
+    "impressions": {
+      "lower_bound": "10000",
+      "upper_bound": "14999"
+    },
+    "page_id": "784812424962943",
+    "page_name": "Tele Z",
+    "publisher_platforms": [
+      "facebook"
+    ],
+    "spend": {
+      "lower_bound": "0",
+      "upper_bound": "99"
+    },
+    "languages": [
+      "de"
+    ],
+    "bylines": "TELE Z",
+    "estimated_audience_size": {
+      "lower_bound": "1000001"
+    }
+  }
+]

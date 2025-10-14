@@ -1,0 +1,134 @@
+{
+  "image_url": "https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+  "output": {
+    "visuelle_features": {
+      "farbpalette": [
+        "#00A550",
+        "#FFFFFF",
+        "#FF00FF"
+      ],
+      "schriftarten_erkannt": [
+        "Sans Serif"
+      ],
+      "schriftgrößen_verteilung": {
+        "klein": 3,
+        "mittel": 1,
+        "groß": 1
+      },
+      "textausrichtung": "linksbündig",
+      "flächenverteilung": {
+        "textfläche": 60,
+        "bildfläche": 30,
+        "weißraum": 10
+      },
+      "kompositionstyp": "Einspaltig",
+      "bildtyp": "Screenshot",
+      "blickführung": "zentral",
+      "salienzverteilung": 0.7,
+      "dominante_layoutstruktur": "Social-Feed",
+      "plattformkontext_erkannt": true,
+      "plattform": "Facebook",
+      "elemente": [
+        {
+          "element": "Text",
+          "position": "oben",
+          "farbe": "Schwarz",
+          "größe": "mittel",
+          "form": "rechteckig",
+          "interaktiv_erscheinung": false,
+          "funktion": "Info",
+          "bedeutung": "Information",
+          "inhalt": "BÜNDNIS 90/DIE GRÜNEN BRÜHL"
+        },
+        {
+          "element": "Text",
+          "position": "oben",
+          "farbe": "Schwarz",
+          "größe": "klein",
+          "form": "rechteckig",
+          "interaktiv_erscheinung": false,
+          "funktion": "Info",
+          "bedeutung": "Information",
+          "inhalt": "Haushaltssperre in Brühl – Verantwortung statt Symbolpolitik"
+        },
+        {
+          "element": "Text",
+          "position": "unten",
+          "farbe": "Weiß",
+          "größe": "groß",
+          "form": "rechteckig",
+          "interaktiv_erscheinung": false,
+          "funktion": "Branding",
+          "bedeutung": "Aufforderung",
+          "inhalt": "KRITIK IST SCHNELL GEÄUSSERT. WEITBLICK BRAUCHT MEHR."
+        },
+        {
+          "element": "Button",
+          "position": "unten rechts",
+          "farbe": "Blau",
+          "größe": "klein",
+          "form": "rechteckig",
+          "interaktiv_erscheinung": true,
+          "funktion": "CTA",
+          "bedeutung": "Interaktion",
+          "inhalt": "Zum Instagram"
+        }
+      ]
+    },
+    "textuelle_features": {
+      "headline_länge": "z.B. 12",
+      "headline_zeichenanzahl": 64,
+      "headline_wortanzahl": 8,
+      "gesamtzeichenanzahl": 182,
+      "gesamtwortanzahl": 29,
+      "durchschnittliche_wortlänge": 5.3,
+      "anzahl_textblöcke": 3,
+      "anzahl_schriftarten": 1,
+      "text_bild_verhältnis": 18.5,
+      "cta_typ": "Imperativ",
+      "cta_position": "unten",
+      "cta_visuelle_prominenz": "hoch",
+      "cta_wirkungseinschätzung": "handlungsauffordernd",
+      "sprachstil": "informativ",
+      "tonalität": "sachlich",
+      "textgliederung_erkennbar": true,
+      "wortartenverteilung": {
+        "Substantive": 10,
+        "Verben": 7,
+        "Adjektive": 5,
+        "Pronomen": 2
+      },
+      "text_inhalte": [
+        {
+          "inhalt": "Haushaltssperre in Brühl – Verantwortung statt Symbolpolitik",
+          "funktion": "Info",
+          "sprachebene": "formell",
+          "wirkung": "informiert"
+        },
+        {
+          "inhalt": "KRITIK IST SCHNELL GEÄUSSERT. WEITBLICK BRAUCHT MEHR.",
+          "funktion": "Branding",
+          "sprachebene": "neutral",
+          "wirkung": "motiviert"
+        }
+      ]
+    },
+    "semantische_features": {
+      "argumenttyp": "rational",
+      "bild_text_verhältnis": "komplementär",
+      "symbolgebrauch": {
+        "symbol_erkannt": true,
+        "symbol_typ": "Sonne",
+        "symbol_bedeutung": "Energie"
+      },
+      "werbeversprechen": "USP",
+      "zielgruppe": "Allgemein",
+      "zielgruppen_indikatoren": [
+        "Politische Themen"
+      ],
+      "emotionaler_apell": "Dringlichkeit",
+      "framing_typ": "Moralisch",
+      "ansprache_typ": "allgemein"
+    }
+  }
+}

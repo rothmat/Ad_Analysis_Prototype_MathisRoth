@@ -1,0 +1,7 @@
+{
+  "input": "Analysiere dieses Bild mit einem Tool: https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+  "output": {
+    "input": "Analysiere dieses Bild mit einem Tool: https://raw.githubusercontent.com/rothmat/MarketingAnalytics/1932b066b56f2919b318223ae47d9ea6df481e4f/1036160865297465.png",
+    "output": "I encountered an error while trying to analyze the image with the gpt4o_vision_tool. The error message indicates a missing prompt or loading issue. Please check the image URL or try again later."
+  }
+}

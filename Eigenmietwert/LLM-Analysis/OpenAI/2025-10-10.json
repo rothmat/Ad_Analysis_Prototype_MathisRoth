@@ -1,0 +1,1753 @@
+[
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:745",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00B140",
+          "#FFFFFF",
+          "#000000"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.5,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "schwarz",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Unterhalb der Headline",
+            "farbe": "schwarz",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Unterstützende Information",
+            "bedeutung": "Erklärung des Themas",
+            "inhalt": "Es wird ein völlig fiktives Einkommen besteuert. Jede Familie soll sich den Traum vom Eigenheim leisten können.",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 78,
+        "headline_wortanzahl": 14,
+        "gesamtzeichenanzahl": 295,
+        "gesamtwortanzahl": 54,
+        "durchschnittliche_wortlänge": 5.44,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Link",
+        "cta_position": "Unterhalb der Hauptinformation",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 10,
+          "Adjektive": 5,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Michael Graber, Nationalrat SVP, sagt JA zur Abschaffung des Eigenmietwerts.",
+          "Es wird ein völlig fiktives Einkommen besteuert. Jede Familie soll sich den Traum vom Eigenheim leisten können.",
+          "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+          "Freunde & Familie an die Abstimmung erinnern (Link in Bio)"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Familien und Wähler",
+        "zielgruppen_indikatoren": [
+          "Eigenheim",
+          "Familien",
+          "Steuern"
+        ],
+        "emotionaler_apell": "Unklar",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:744",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00B300",
+          "#FFFFFF",
+          "#FF0000"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Helvetica"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 1,
+          "mittel": 2,
+          "groß": 2
+        },
+        "textausrichtung": "zentriert | linksbündig",
+        "flächenverteilung": {
+          "textfläche": 30,
+          "bildfläche": 50,
+          "weißraum": 20
+        },
+        "kompositionstyp": "Zentrumskomposition | asymmetrisch",
+        "bildtyp": "Foto | Illustration",
+        "blickführung": "zentral",
+        "salienzverteilung": 0.7,
+        "dominante_layoutstruktur": "Einspaltig | Werbekachel",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#00B300",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Wahlzettel",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Untertitel",
+            "bedeutung": "Zusätzliche Information",
+            "inhalt": "JA zum Bundesbeschluss Zweitwohnungen",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Wahlzettel",
+            "markenlogo_erkannt": false
+          },
+          {
+            "element": "Button",
+            "position": "Unten rechts",
+            "farbe": "#FF0000",
+            "größe": "mittel",
+            "form": "rund",
+            "interaktiv_erscheinung": true,
+            "funktion": "Call to Action",
+            "bedeutung": "Handlungsaufforderung",
+            "inhalt": "Jetzt abstimmen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "3 Wörter",
+        "headline_zeichenanzahl": 24,
+        "headline_wortanzahl": 3,
+        "gesamtzeichenanzahl": 155,
+        "gesamtwortanzahl": 30,
+        "durchschnittliche_wortlänge": 5.17,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.6,
+        "cta_typ": "Handlungsaufforderung",
+        "cta_position": "Unten rechts",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 10,
+          "Verben": 5,
+          "Adjektive": 3,
+          "Pronomen": 2
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen!",
+          "JA zum Bundesbeschluss Zweitwohnungen",
+          "28.09. Jetzt richtig abstimmen!",
+          "Gegen den ungerechten Eigenmietwert!",
+          "Nur ein JA zur Vorlage schafft den Eigenmietwert ab – JA stimmen am 28. September!"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "0.6",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wahlberechtigte",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Steuern",
+          "Wohnen"
+        ],
+        "emotionaler_apell": "Dringlichkeit",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:743",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00B300",
+          "#FFFFFF",
+          "#FFAA00",
+          "#000000"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 2,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "zentriert",
+        "flächenverteilung": {
+          "textfläche": 30,
+          "bildfläche": 50,
+          "weißraum": 20
+        },
+        "kompositionstyp": "Zentrumskomposition",
+        "bildtyp": "Foto",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Einspaltig",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "Unklar",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Frage zur Abstimmung",
+            "inhalt": "Eigenmietwert abschaffen?",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Kind malt auf dem Boden",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "Unklar",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "CTA",
+            "bedeutung": "Aufruf zur Abstimmung",
+            "inhalt": "Jetzt abstimmen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 27,
+        "headline_wortanzahl": 4,
+        "gesamtzeichenanzahl": 134,
+        "gesamtwortanzahl": 24,
+        "durchschnittliche_wortlänge": 5.58,
+        "anzahl_textblöcke": 4,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.6,
+        "cta_typ": "Handlungsaufforderung",
+        "cta_position": "Zentrum",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 10,
+          "Verben": 4,
+          "Adjektive": 2,
+          "Pronomen": 8
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen?",
+          "JA zum Bundesbeschluss Zweitwohnungen",
+          "28.09. Jetzt richtig abstimmen!",
+          "Gegen den ungerechten Eigenmietwert!"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wähler",
+        "zielgruppen_indikatoren": [
+          "Abstimmung",
+          "Politik"
+        ],
+        "emotionaler_apell": "Dringlichkeit",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:742",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00B140",
+          "#FFFFFF",
+          "#000000"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Helvetica"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 1,
+          "mittel": 2,
+          "groß": 2
+        },
+        "textausrichtung": "zentriert",
+        "flächenverteilung": {
+          "textfläche": 30,
+          "bildfläche": 50,
+          "weißraum": 20
+        },
+        "kompositionstyp": "Zentrumskomposition",
+        "bildtyp": "Screenshot",
+        "blickführung": "zentral",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Einspaltig",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Oben",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Frage",
+            "bedeutung": "Fragt nach der Meinung der Leser",
+            "inhalt": "Eigenmietwert abschaffen?",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#00B140",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Aussage",
+            "bedeutung": "Hauptbotschaft der Anzeige",
+            "inhalt": "JA zum Bundesbeschluss Zweitwohnungen",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          },
+          {
+            "element": "Text",
+            "position": "Unten",
+            "farbe": "#000000",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Handlungsaufforderung",
+            "bedeutung": "Ermutigt zur Teilnahme an der Abstimmung",
+            "inhalt": "28.09. Jetzt richtig abstimmen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 30,
+        "headline_wortanzahl": 5,
+        "gesamtzeichenanzahl": 150,
+        "gesamtwortanzahl": 30,
+        "durchschnittliche_wortlänge": 4.5,
+        "anzahl_textblöcke": 3,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.6,
+        "cta_typ": "Handlungsaufforderung",
+        "cta_position": "Unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 10,
+          "Verben": 5,
+          "Adjektive": 3,
+          "Pronomen": 2
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen?",
+          "JA zum Bundesbeschluss Zweitwohnungen",
+          "28.09. Jetzt richtig abstimmen!"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wähler",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Steuern"
+        ],
+        "emotionaler_apell": "Unklar",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:741",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00B140",
+          "#FFFFFF",
+          "#000000",
+          "#FFAA00"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Helvetica"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 2,
+          "mittel": 3,
+          "groß": 2
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Foto",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.5,
+        "dominante_layoutstruktur": "Werbekachel",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Oberer Bereich",
+            "farbe": "#00B140",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Silhouetten von Personen",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Mitte",
+            "farbe": "#000000",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Untertitel",
+            "bedeutung": "Erklärung",
+            "inhalt": "Viele aus der Generation Babyboomer könnten in den nächsten Jahren gezwungen sein, ihr Eigenheim weiterzugeben.",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          },
+          {
+            "element": "Button",
+            "position": "Unten rechts",
+            "farbe": "#FFAA00",
+            "größe": "mittel",
+            "form": "kreisförmig",
+            "interaktiv_erscheinung": true,
+            "funktion": "Call to Action",
+            "bedeutung": "Handlungsaufforderung",
+            "inhalt": "Eigenmietwert streichen",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 300,
+        "gesamtwortanzahl": 50,
+        "durchschnittliche_wortlänge": 5.0,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Button",
+        "cta_position": "Unten rechts",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 5,
+          "Adjektive": 3,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          {
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "funktion": "Headline"
+          },
+          {
+            "inhalt": "Viele aus der Generation Babyboomer könnten in den nächsten Jahren gezwungen sein, ihr Eigenheim weiterzugeben.",
+            "funktion": "Untertitel"
+          },
+          {
+            "inhalt": "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+            "funktion": "CTA"
+          }
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Vertrauen"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Generation Babyboomer",
+        "zielgruppen_indikatoren": [
+          "Babyboomer",
+          "Eigenheimbesitzer"
+        ],
+        "emotionaler_apell": "Unklar",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:740",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00B140",
+          "#FFFFFF",
+          "#FFAA00",
+          "#000000"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 2,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "zentriert | linksbündig",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "Zentrumskomposition | asymmetrisch",
+        "bildtyp": "Illustration",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Einspaltig",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#FFFFFF",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "85% der 50- bis 65-jährigen Immobilienbesitzer können nicht \"ruhig schlafen\".",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Siluette einer Person, die nachdenklich wirkt",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "CTA",
+            "position": "Unten",
+            "farbe": "#FFAA00",
+            "größe": "mittel",
+            "form": "runde Form",
+            "interaktiv_erscheinung": true,
+            "funktion": "Handlungsaufforderung",
+            "bedeutung": "Aufruf zur Aktion",
+            "inhalt": "Jetzt informieren",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 78,
+        "headline_wortanzahl": 15,
+        "gesamtzeichenanzahl": 300,
+        "gesamtwortanzahl": 50,
+        "durchschnittliche_wortlänge": 4.5,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Handlungsaufforderung",
+        "cta_position": "Unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "dringlich",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 5,
+          "Adjektive": 3,
+          "Pronomen": 2
+        },
+        "text_inhalte": [
+          {
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen am 28. September!",
+            "funktion": "Headline"
+          },
+          {
+            "inhalt": "Wenn Sorgen den Schlaf rauben",
+            "funktion": "Subheadline"
+          },
+          {
+            "inhalt": "Das ist nicht fair. Deshalb: Eigenmietwert streichen, für gerechte Steuern und spürbare Entlastung.",
+            "funktion": "Info"
+          },
+          {
+            "inhalt": "Jetzt Freunde informieren: https://bit.ly/463YRjr",
+            "funktion": "CTA"
+          },
+          {
+            "inhalt": "Jetzt informieren und abstimmen: faire-steuern.ch",
+            "funktion": "CTA"
+          }
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "emotional",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Vertrauen"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Immobilienbesitzer",
+        "zielgruppen_indikatoren": [
+          "Alter",
+          "Besitzverhältnisse"
+        ],
+        "emotionaler_apell": "dringlich",
+        "framing_typ": "Verlust",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:739",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFAA00",
+          "#000000",
+          "#FFFFFF"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Politische Werbung",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Unten",
+            "farbe": "#FFFFFF",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Fehlerhinweis",
+            "bedeutung": "Information über Video-Fehler",
+            "inhalt": "Leider kann dieses Video nicht richtig abgespielt werden.",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 370,
+        "gesamtwortanzahl": 66,
+        "durchschnittliche_wortlänge": 5.6,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Abstimmung",
+        "cta_position": "Zentrum",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 30,
+          "Verben": 10,
+          "Adjektive": 5,
+          "Pronomen": 8
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Kristiane Vietze, Nationalrätin FDP, sagt JA zur Abschaffung des Eigenmietwerts.",
+          "Die Reform ist schon lange überfällig, ausgelegt für alle Beteiligte und entspricht dem Wunsch von vielen Menschen.",
+          "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+          "Freunde & Familie an die Abstimmung erinnern!"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wähler",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Wohneigentum"
+        ],
+        "emotionaler_apell": "Unklar",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:738",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFFFFF",
+          "#000000",
+          "#FFAA00"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Helvetica"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 2,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "zentriert",
+        "flächenverteilung": {
+          "textfläche": 30,
+          "bildfläche": 50,
+          "weißraum": 20
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "zentral",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "CTA",
+            "bedeutung": "Anmeldung",
+            "inhalt": "Anmelden",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Info",
+            "bedeutung": "Willkommensnachricht",
+            "inhalt": "Du würdest gern mehr sehen von NZZ Neue Zürcher Zeitung?",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": true
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 0,
+        "headline_wortanzahl": 0,
+        "gesamtzeichenanzahl": 200,
+        "gesamtwortanzahl": 40,
+        "durchschnittliche_wortlänge": 5.0,
+        "anzahl_textblöcke": 2,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.6,
+        "cta_typ": "Anmeldung",
+        "cta_position": "Zentrum",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "informell",
+        "tonalität": "einladend",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 10,
+          "Verben": 5,
+          "Adjektive": 3,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          {
+            "inhalt": "Du würdest gern mehr sehen von NZZ Neue Zürcher Zeitung?",
+            "funktion": "Info",
+            "sprache": "Deutsch"
+          },
+          {
+            "inhalt": "E-Mail-Adresse oder Telefonnummer",
+            "funktion": "Input-Feld",
+            "sprache": "Deutsch"
+          }
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "einladend",
+        "bild_text_verhältnis": "Unklar",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Logo",
+          "symbol_bedeutung": "Markenidentität"
+        },
+        "werbeversprechen": "generisch",
+        "zielgruppe": "Allgemein",
+        "zielgruppen_indikatoren": [],
+        "emotionaler_apell": "einladend",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:737",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFAA00",
+          "#000000",
+          "#FFFFFF",
+          "#00B140",
+          "#007A8E"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Helvetica"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 2,
+          "mittel": 3,
+          "groß": 2
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 30,
+          "bildfläche": 50,
+          "weißraum": 20
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.5,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Politische Werbung",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Unterhalb der Headline",
+            "farbe": "#000000",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Untertitel",
+            "bedeutung": "Zusätzliche Information",
+            "inhalt": "SP-Medienmitteilung bringt Herzog in Erklärungsnot",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Politische Werbung",
+            "markenlogo_erkannt": false
+          },
+          {
+            "element": "Logo",
+            "position": "Unten rechts",
+            "farbe": "#00B140",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Branding",
+            "bedeutung": "Markenidentität",
+            "inhalt": "JA zu fairen Steuern",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Politische Werbung",
+            "markenlogo_erkannt": true
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 300,
+        "gesamtwortanzahl": 50,
+        "durchschnittliche_wortlänge": 4.5,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.6,
+        "cta_typ": "Link",
+        "cta_position": "Unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "informell",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 5,
+          "Adjektive": 3,
+          "Pronomen": 10
+        },
+        "text_inhalte": [
+          {
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "funktion": "Headline"
+          },
+          {
+            "inhalt": "SP-Medienmitteilung bringt Herzog in Erklärungsnot",
+            "funktion": "Untertitel"
+          },
+          {
+            "inhalt": "Hey! Hast du bereits abgestimmt?",
+            "funktion": "CTA"
+          }
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Vertrauen"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wähler",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Steuern"
+        ],
+        "emotionaler_apell": "dringlich",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:735",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00A651",
+          "#FFFFFF",
+          "#000000"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft der Anzeige",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "CTA-Button",
+            "position": "unten",
+            "farbe": "#00A651",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "Handlungsaufforderung",
+            "bedeutung": "Leitet zur Abstimmung",
+            "inhalt": "Mehr dazu",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 470,
+        "gesamtwortanzahl": 80,
+        "durchschnittliche_wortlänge": 5.88,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Handlungsaufforderung",
+        "cta_position": "unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 30,
+          "Verben": 15,
+          "Adjektive": 5,
+          "Pronomen": 10
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Man spart, plant und findet endlich das passende Eigenheim und dann schlägt das Steuergesetz zu.",
+          "Der Eigenmietwert ist eine fiktive Steuer auf ein Einkommen, das gar nicht existiert. Das ist ungerecht und macht Wohneigentum zusätzlich teuer.",
+          "Am 28. September haben wir die Chance, den Eigenmietwert abzuschaffen.",
+          "Jetzt Abstimmungscouvert öffnen und abstimmen!"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Allgemein",
+        "zielgruppen_indikatoren": [
+          "Familien",
+          "Eigenheimbesitzer"
+        ],
+        "emotionaler_apell": "Fairness",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:734",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFAA00",
+          "#000000",
+          "#FFFFFF"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Unterhalb der Headline",
+            "farbe": "#000000",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "CTA",
+            "bedeutung": "Handlungsaufforderung",
+            "inhalt": "Jetzt ist der Moment!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          },
+          {
+            "element": "Button",
+            "position": "Unten rechts",
+            "farbe": "#FFAA00",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "Link",
+            "bedeutung": "Mehr Informationen",
+            "inhalt": "Mehr dazu",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 305,
+        "gesamtwortanzahl": 54,
+        "durchschnittliche_wortlänge": 5.64,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Link",
+        "cta_position": "Unten rechts",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 10,
+          "Adjektive": 5,
+          "Pronomen": 8
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Noch nicht abgestimmt? Jetzt ist der Moment!",
+          "Abstimmungscouvert öffnen, abstimmen und abschicken oder am 28. September an die Urne! Jede Stimme zählt!",
+          "Freunde & Familie an die Abstimmung erinnern: bit.ly/463YRjr",
+          "Mehr Informationen: faire-steuern.ch"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Daumen hoch",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wahlberechtigte",
+        "zielgruppen_indikatoren": [
+          "Politikinteressierte",
+          "Junge Wähler"
+        ],
+        "emotionaler_apell": "Dringlichkeit",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:733",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFAA00",
+          "#000000",
+          "#FFFFFF",
+          "#007A33"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.5,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft der Anzeige",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Politische Botschaft",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "CTA-Button",
+            "position": "unten",
+            "farbe": "#007A33",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "Handlungsaufforderung",
+            "bedeutung": "Leitet zur Abstimmung",
+            "inhalt": "Mehr dazu",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 292,
+        "gesamtwortanzahl": 54,
+        "durchschnittliche_wortlänge": 5.41,
+        "anzahl_textblöcke": 6,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Handlungsaufforderung",
+        "cta_position": "unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 10,
+          "Adjektive": 5,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Martin Bäumle, Nationalrat Grünliberale Kanton Zürich, sagt JA zur Abschaffung des Eigenmietwerts.",
+          "Wer Schulden macht wird belohnt. Wer sie abzahlt, wird durch höhere Steuern bestraft. Das ist falsch.",
+          "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+          "Freunde & Familie an die Abstimmung erinnern: https://bit.ly/463YRjr",
+          "Mehr Informationen: faire-steuern.ch"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wähler",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Steuern",
+          "Wohneigentum"
+        ],
+        "emotionaler_apell": "Unklar",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:732",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFAA00",
+          "#000000",
+          "#FFFFFF",
+          "#007A33"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.5,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Politische Werbung",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "CTA-Button",
+            "position": "Unten",
+            "farbe": "#007A33",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "Handlungsaufforderung",
+            "bedeutung": "Link zur Abstimmung",
+            "inhalt": "Mehr dazu",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 290,
+        "gesamtwortanzahl": 52,
+        "durchschnittliche_wortlänge": 5.58,
+        "anzahl_textblöcke": 6,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Link",
+        "cta_position": "Unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 10,
+          "Adjektive": 5,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Manfred Bühler, Nationalrat SVP Kanton Bern, sagt JA zur Abschaffung des Eigenmietwerts.",
+          "Im Alter in Sicherheit wohnen - ein Wunsch vieler.",
+          "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+          "Freunde & Familie an die Abstimmung erinnern!",
+          "Mehr Informationen: faire-steuern.ch"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wahlberechtigte",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Steuern",
+          "Wohneigentum"
+        ],
+        "emotionaler_apell": "Sicherheit",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "1",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-10-10",
+    "screenshot_id": "media:731",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#00B140",
+          "#FFFFFF",
+          "#000000",
+          "#FFAA00"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Helvetica"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.5,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Politische Werbung",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "CTA-Button",
+            "position": "Unten",
+            "farbe": "#FFAA00",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "Link",
+            "bedeutung": "Handlungsaufforderung",
+            "inhalt": "Mehr dazu",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 66,
+        "headline_wortanzahl": 12,
+        "gesamtzeichenanzahl": 300,
+        "gesamtwortanzahl": 50,
+        "durchschnittliche_wortlänge": 5.5,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Link",
+        "cta_position": "Unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 10,
+          "Adjektive": 5,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Benjamin Fischer, Nationalrat SVP des Kantons Zürich, sagt JA zur Abschaffung des Eigenmietwerts.",
+          "Der Eigenmietwert wird auf eine erfundene Miete erhoben, die gar nicht fliesst.",
+          "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+          "Mehr Informationen: faire-steuern.ch"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Wahlberechtigte",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Steuern",
+          "Wohneigentum"
+        ],
+        "emotionaler_apell": "Unklar",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  }
+]

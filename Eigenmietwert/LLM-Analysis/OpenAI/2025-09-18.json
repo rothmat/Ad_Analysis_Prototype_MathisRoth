@@ -1,0 +1,1012 @@
+[
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4796",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4795",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4701",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4699",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4691",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4687",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4681",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4680",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4677",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFAA00",
+          "#000000",
+          "#FFFFFF"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 40,
+          "bildfläche": 50,
+          "weißraum": 10
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Screenshot",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Social-Feed",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "oben",
+            "farbe": "schwarz",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Thema der Anzeige",
+            "inhalt": "JA zu fairen Steuern",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Mitte",
+            "farbe": "schwarz",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Textblock",
+            "bedeutung": "Information über die Abstimmung",
+            "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          },
+          {
+            "element": "CTA-Button",
+            "position": "unten",
+            "farbe": "blau",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "Call to Action",
+            "bedeutung": "Aufruf zur Abstimmung",
+            "inhalt": "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "5",
+        "headline_zeichenanzahl": 20,
+        "headline_wortanzahl": 5,
+        "gesamtzeichenanzahl": 290,
+        "gesamtwortanzahl": 50,
+        "durchschnittliche_wortlänge": 5.8,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.8,
+        "cta_typ": "Abstimmung",
+        "cta_position": "unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "motiviert",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 20,
+          "Verben": 10,
+          "Adjektive": 5,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+          "Thomas Stettler, Nationalrat SVP Schweiz, sagt JA zur Abschaffung des Eigenmietwerts",
+          "Wer spart, wird im heutigen System bestraft und wer sich verschuldet, belohnt.",
+          "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+          "Freunde & Familie an die Abstimmung erinnern!"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "0.5",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Allgemein",
+        "zielgruppen_indikatoren": [
+          "Politik",
+          "Steuern",
+          "Abstimmung"
+        ],
+        "emotionaler_apell": "Dringlichkeit",
+        "framing_typ": "Gewinn",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4614",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#0000FF",
+          "#FFFFFF",
+          "#000000"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Helvetica"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 2,
+          "mittel": 3,
+          "groß": 2
+        },
+        "textausrichtung": "zentriert | linksbündig",
+        "flächenverteilung": {
+          "textfläche": 30,
+          "bildfläche": 50,
+          "weißraum": 20
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Foto",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "Werbekachel",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "Zentrum",
+            "farbe": "#000000",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "NEIN zum Sanierungs-Stopp",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Riss in der Wand",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Unten",
+            "farbe": "#000000",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "CTA",
+            "bedeutung": "Handlungsaufforderung",
+            "inhalt": "NEIN am 28. September!",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "Unklar",
+        "headline_zeichenanzahl": 30,
+        "headline_wortanzahl": 5,
+        "gesamtzeichenanzahl": 200,
+        "gesamtwortanzahl": 40,
+        "durchschnittliche_wortlänge": 5.0,
+        "anzahl_textblöcke": 5,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.6,
+        "cta_typ": "Handlungsaufforderung",
+        "cta_position": "Unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "stark",
+        "sprachstil": "werblich",
+        "tonalität": "dringlich",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 15,
+          "Verben": 5,
+          "Adjektive": 5,
+          "Pronomen": 5
+        },
+        "text_inhalte": [
+          {
+            "inhalt": "Steuererhöhungen für den Mittelstand?",
+            "funktion": "Frage",
+            "sprachebene": "informell",
+            "ton": "informierend"
+          },
+          {
+            "inhalt": "Was die Kantone dazu sagen.",
+            "funktion": "Info",
+            "sprachebene": "neutral",
+            "ton": "informierend"
+          }
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "hoch",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Haken",
+          "symbol_bedeutung": "Zustimmung"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Mittelstand",
+        "zielgruppen_indikatoren": [
+          "Steuererhöhungen",
+          "Mittelstand"
+        ],
+        "emotionaler_apell": "dringlich",
+        "framing_typ": "Verlust",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4609",
+    "geeignet": true,
+    "analyse": {
+      "visuelle_features": {
+        "farbpalette": [
+          "#FFFFFF",
+          "#000000",
+          "#FFAA00"
+        ],
+        "schriftarten_erkannt": [
+          "Arial",
+          "Sans Serif"
+        ],
+        "schriftgrößen_verteilung": {
+          "klein": 3,
+          "mittel": 2,
+          "groß": 1
+        },
+        "textausrichtung": "links",
+        "flächenverteilung": {
+          "textfläche": 30,
+          "bildfläche": 50,
+          "weißraum": 20
+        },
+        "kompositionstyp": "asymmetrisch",
+        "bildtyp": "Foto",
+        "blickführung": "dynamisch",
+        "salienzverteilung": 0.0,
+        "dominante_layoutstruktur": "mehrspaltig",
+        "plattformkontext_erkannt": true,
+        "plattform": "Facebook",
+        "elemente": [
+          {
+            "element": "Text",
+            "position": "oben",
+            "farbe": "schwarz",
+            "größe": "groß",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Headline",
+            "bedeutung": "Hauptbotschaft",
+            "inhalt": "Nein zum Sanierungs-Stopp",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Berglandschaft mit Häusern",
+            "markenlogo_erkannt": true
+          },
+          {
+            "element": "Text",
+            "position": "Mitte",
+            "farbe": "schwarz",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": false,
+            "funktion": "Info-Text",
+            "bedeutung": "Zusätzliche Informationen",
+            "inhalt": "Eigenmietwert: Bergkantone halten nichts vom «Steuergeschenk»",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          },
+          {
+            "element": "Button",
+            "position": "unten",
+            "farbe": "blau",
+            "größe": "mittel",
+            "form": "rechteckig",
+            "interaktiv_erscheinung": true,
+            "funktion": "CTA",
+            "bedeutung": "Handlungsaufforderung",
+            "inhalt": "Learn More",
+            "person_mimik_erkannbar": "nicht sichtbar",
+            "bild_inhalt": "Unklar",
+            "markenlogo_erkannt": false
+          }
+        ]
+      },
+      "textuelle_features": {
+        "headline_länge": "5",
+        "headline_zeichenanzahl": 25,
+        "headline_wortanzahl": 5,
+        "gesamtzeichenanzahl": 150,
+        "gesamtwortanzahl": 30,
+        "durchschnittliche_wortlänge": 5.0,
+        "anzahl_textblöcke": 3,
+        "anzahl_schriftarten": 2,
+        "text_bild_verhältnis": 0.6,
+        "cta_typ": "Learn More",
+        "cta_position": "unten",
+        "cta_visuelle_prominenz": "hoch",
+        "cta_wirkungseinschätzung": "hoch",
+        "sprachstil": "werblich",
+        "tonalität": "dringlich",
+        "textgliederung_erkennbar": true,
+        "wortartenverteilung": {
+          "Substantive": 10,
+          "Verben": 5,
+          "Adjektive": 3,
+          "Pronomen": 2
+        },
+        "text_inhalte": [
+          "Nein zum Sanierungs-Stopp",
+          "Eigenmietwert: Bergkantone halten nichts vom «Steuergeschenk»",
+          "Artikel lesen"
+        ]
+      },
+      "semantische_features": {
+        "argumenttyp": "rational",
+        "bild_text_verhältnis": "0.5",
+        "symbolgebrauch": {
+          "symbol_erkannt": true,
+          "symbol_typ": "Logo",
+          "symbol_bedeutung": "Markenidentität"
+        },
+        "werbeversprechen": "USP",
+        "zielgruppe": "Allgemein",
+        "zielgruppen_indikatoren": [
+          "Bauern",
+          "Unternehmer",
+          "Politikinteressierte"
+        ],
+        "emotionaler_apell": "dringlich",
+        "framing_typ": "Verlust",
+        "ansprache_typ": "direkt"
+      }
+    }
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4579",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4578",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4557",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4552",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4547",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4546",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4545",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4543",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4542",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4541",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4540",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4538",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4533",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4532",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4463",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4462",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4461",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4460",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4459",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4458",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4398",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4395",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4344",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4343",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4315",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4295",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4268",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4273",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4274",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4270",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4266",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4269",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4207",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4212",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4204",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4208",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4206",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4166",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4170",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4181",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4183",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4025",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4039",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:4043",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3792",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3791",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3787",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3786",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3683",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3698",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3688",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3690",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3696",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3663",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3661",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3671",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3672",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3669",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3668",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3665",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3674",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3673",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3667",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3664",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3647",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3653",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3643",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3654",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3640",
+    "geeignet": false,
+    "analyse": null
+  },
+  {
+    "kampagne_id": "4",
+    "analysetool": "OpenAI",
+    "analyse_datum": "2025-09-18",
+    "screenshot_id": "media:3649",
+    "geeignet": false,
+    "analyse": null
+  }
+]

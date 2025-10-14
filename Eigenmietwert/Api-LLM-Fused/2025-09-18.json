@@ -1,0 +1,969 @@
+[
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-18T16:07:54Z",
+    "ad_keys": {
+      "ad_external_id": "667279339753682",
+      "ad_pk": 9582,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-12"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "667279339753682",
+        "ad_creation_time": "2025-09-12",
+        "ad_delivery_start_time": "2025-09-12",
+        "ad_delivery_stop_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "👉 Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen! 👈\n\nThomas Stettler, Nationalrat SVP Schweiz, sagt JA zur Abschaffung des Eigenmietwerts ✅\n\nWer spart, wird im heutigen System bestraft und wer sich verschuldet, belohnt. Wer sein Wohneigentum abzahlt, sollte nicht bestraft werden.\n\nJetzt Abstimmungscouvert öffnen und abstimmen! 🗳️\n\n🔗 Freunde & Familie an die Abstimmung erinnern: https://bit.ly/3JPKNkM\n\n👉 Mehr Informationen: faire-steuern.ch\n\n#EigenmietwertAbschaffen #FaireSteuern #Geistersteuer #Eigenmietwert #Wohneigentum #Abst25 #CHVote #Bundesbeschluss #Zweitwohnungssteuer\n\nSVP Schweiz Junge SVP Schweiz HEV Schweiz"
+        ],
+        "ad_creative_link_captions": [
+          "bit.ly"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=667279339753682&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.000578",
+            "age": "18-24",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.159111",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.191164",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.106266",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.001444",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.222062",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.075079",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000866",
+            "age": "45-54",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.025989",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.001733",
+            "age": "18-24",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.000866",
+            "age": "35-44",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.131678",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.01415",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.000289",
+            "age": "25-34",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.06324",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003465",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.002021",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.096143",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.06166",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.014611",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.006137",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.021917",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.007306",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.007306",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.054354",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.056692",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.033314",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.018703",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.007306",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.001753",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.01578",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.047341",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.01841",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.112507",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.009059",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.009059",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.011397",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.00263",
+            "region": "Canton of Geneva"
+          },
+          {
+            "percentage": "0.186441",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.029807",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.015488",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.003799",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.151081",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "4000",
+          "upper_bound": "4999"
+        },
+        "page_id": "624056340799105",
+        "page_name": "JA zu fairen Steuern",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "bylines": "«JA zur Abschaffung des Eigenmietwerts»",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4677,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-18/667279339753682.png",
+          "filename": "667279339753682.png",
+          "date_folder": "2025-09-18"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-18",
+        "screenshot_id": "media:4677",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#FFAA00",
+              "#000000",
+              "#FFFFFF"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Sans Serif"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 3,
+              "mittel": 2,
+              "groß": 1
+            },
+            "textausrichtung": "links",
+            "flächenverteilung": {
+              "textfläche": 40,
+              "bildfläche": 50,
+              "weißraum": 10
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Screenshot",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "Social-Feed",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "oben",
+                "farbe": "schwarz",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Thema der Anzeige",
+                "inhalt": "JA zu fairen Steuern",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Mitte",
+                "farbe": "schwarz",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Textblock",
+                "bedeutung": "Information über die Abstimmung",
+                "inhalt": "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              },
+              {
+                "element": "CTA-Button",
+                "position": "unten",
+                "farbe": "blau",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": true,
+                "funktion": "Call to Action",
+                "bedeutung": "Aufruf zur Abstimmung",
+                "inhalt": "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "5",
+            "headline_zeichenanzahl": 20,
+            "headline_wortanzahl": 5,
+            "gesamtzeichenanzahl": 290,
+            "gesamtwortanzahl": 50,
+            "durchschnittliche_wortlänge": 5.8,
+            "anzahl_textblöcke": 5,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.8,
+            "cta_typ": "Abstimmung",
+            "cta_position": "unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "motiviert",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 20,
+              "Verben": 10,
+              "Adjektive": 5,
+              "Pronomen": 5
+            },
+            "text_inhalte": [
+              "Eigenmietwert abschaffen: JA zum Bundesbeschluss Zweitwohnungen!",
+              "Thomas Stettler, Nationalrat SVP Schweiz, sagt JA zur Abschaffung des Eigenmietwerts",
+              "Wer spart, wird im heutigen System bestraft und wer sich verschuldet, belohnt.",
+              "Jetzt Abstimmungscouvert öffnen und abstimmen!",
+              "Freunde & Familie an die Abstimmung erinnern!"
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "0.5",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Haken",
+              "symbol_bedeutung": "Zustimmung"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Allgemein",
+            "zielgruppen_indikatoren": [
+              "Politik",
+              "Steuern",
+              "Abstimmung"
+            ],
+            "emotionaler_apell": "Dringlichkeit",
+            "framing_typ": "Gewinn",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-18T16:08:20Z",
+    "ad_keys": {
+      "ad_external_id": "793687839832073",
+      "ad_pk": 11331,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-12"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "793687839832073",
+        "ad_creation_time": "2025-09-12",
+        "ad_delivery_start_time": "2025-09-15",
+        "ad_delivery_stop_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "Immer mehr Medien berichten: Die Eigenmietwert-Vorlage gefährdet Sanierungen, KMU und den Mittelstand. Lesen Sie selbst in den aktuellen Artikeln.\n👉 Links zu den Artikeln im ersten Kommentar."
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=793687839832073&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "1000001"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4614,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-18/793687839832073.png",
+          "filename": "793687839832073.png",
+          "date_folder": "2025-09-18"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-18",
+        "screenshot_id": "media:4614",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#0000FF",
+              "#FFFFFF",
+              "#000000"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Helvetica"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 2,
+              "mittel": 3,
+              "groß": 2
+            },
+            "textausrichtung": "zentriert | linksbündig",
+            "flächenverteilung": {
+              "textfläche": 30,
+              "bildfläche": 50,
+              "weißraum": 20
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Foto",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "Werbekachel",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "Zentrum",
+                "farbe": "#000000",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Hauptbotschaft",
+                "inhalt": "NEIN zum Sanierungs-Stopp",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Riss in der Wand",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Unten",
+                "farbe": "#000000",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "CTA",
+                "bedeutung": "Handlungsaufforderung",
+                "inhalt": "NEIN am 28. September!",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "Unklar",
+            "headline_zeichenanzahl": 30,
+            "headline_wortanzahl": 5,
+            "gesamtzeichenanzahl": 200,
+            "gesamtwortanzahl": 40,
+            "durchschnittliche_wortlänge": 5.0,
+            "anzahl_textblöcke": 5,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.6,
+            "cta_typ": "Handlungsaufforderung",
+            "cta_position": "Unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "stark",
+            "sprachstil": "werblich",
+            "tonalität": "dringlich",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 15,
+              "Verben": 5,
+              "Adjektive": 5,
+              "Pronomen": 5
+            },
+            "text_inhalte": [
+              {
+                "inhalt": "Steuererhöhungen für den Mittelstand?",
+                "funktion": "Frage",
+                "sprachebene": "informell",
+                "ton": "informierend"
+              },
+              {
+                "inhalt": "Was die Kantone dazu sagen.",
+                "funktion": "Info",
+                "sprachebene": "neutral",
+                "ton": "informierend"
+              }
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "hoch",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Haken",
+              "symbol_bedeutung": "Zustimmung"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Mittelstand",
+            "zielgruppen_indikatoren": [
+              "Steuererhöhungen",
+              "Mittelstand"
+            ],
+            "emotionaler_apell": "dringlich",
+            "framing_typ": "Verlust",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  },
+  {
+    "version": "1.0",
+    "merge_time": "2025-09-18T16:08:43Z",
+    "ad_keys": {
+      "ad_external_id": "24672554885688807",
+      "ad_pk": 11326,
+      "campaign": {
+        "id": 4,
+        "slug": "eigenmietwert",
+        "name": "Eigenmietwert"
+      },
+      "snapshot_date": "2025-09-12"
+    },
+    "api": {
+      "source": "facebook_ad_library",
+      "raw": {
+        "id": "24672554885688807",
+        "ad_creation_time": "2025-09-12",
+        "ad_delivery_start_time": "2025-09-15",
+        "ad_creative_bodies": [
+          "WATSON",
+          "Tages-Anzeiger",
+          "UrnerZeitung",
+          "REPUBLIK"
+        ],
+        "ad_creative_link_captions": [
+          "watson.ch",
+          "tagesanzeiger.ch",
+          "urnerzeitung.ch",
+          "republik.ch"
+        ],
+        "ad_creative_link_descriptions": [
+          "WATSON",
+          "Tages-Anzeiger",
+          "UrnerZeitung",
+          "REPUBLIK"
+        ],
+        "ad_creative_link_titles": [
+          "Artikel lesen",
+          "Artikel lesen",
+          "Artikel lesen",
+          "Artikel lesen"
+        ],
+        "ad_snapshot_url": "https://www.facebook.com/ads/archive/render_ad/?id=24672554885688807&access_token=EAARLKoboLQwBPCHkwoxuvF4UT5C23dedwC4nogXzxqkmZBhZAaQ2jtnmYsriOqqMjWE7VEnxwZBxfP4RaDhXbXjEOowuG2osMgbmiKHNWpE50w1TJ4NuFBzLNCMdvG1VDzgGh3jtroNWqIAC6JAJeGrBQdfSQznaED2Y3S0RP3byuHn7CnMi4CIZAmAjEKnmAucZCQRYDDdod",
+        "currency": "CHF",
+        "demographic_distribution": [
+          {
+            "percentage": "0.007874",
+            "age": "25-34",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.011811",
+            "age": "25-34",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.007874",
+            "age": "35-44",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.023622",
+            "age": "35-44",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.015748",
+            "age": "45-54",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.015748",
+            "age": "45-54",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.114173",
+            "age": "55-64",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.181102",
+            "age": "55-64",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.003937",
+            "age": "55-64",
+            "gender": "unknown"
+          },
+          {
+            "percentage": "0.338583",
+            "age": "65+",
+            "gender": "female"
+          },
+          {
+            "percentage": "0.271654",
+            "age": "65+",
+            "gender": "male"
+          },
+          {
+            "percentage": "0.007874",
+            "age": "65+",
+            "gender": "unknown"
+          }
+        ],
+        "delivery_by_region": [
+          {
+            "percentage": "0.074803",
+            "region": "Aargau"
+          },
+          {
+            "percentage": "0.051181",
+            "region": "Luzern"
+          },
+          {
+            "percentage": "0.015748",
+            "region": "Zug"
+          },
+          {
+            "percentage": "0.007874",
+            "region": "Vaud"
+          },
+          {
+            "percentage": "0.066929",
+            "region": "Valais"
+          },
+          {
+            "percentage": "0.019685",
+            "region": "Uri"
+          },
+          {
+            "percentage": "0.015748",
+            "region": "Ticino"
+          },
+          {
+            "percentage": "0.059055",
+            "region": "Thurgau"
+          },
+          {
+            "percentage": "0.03937",
+            "region": "Solothurn"
+          },
+          {
+            "percentage": "0.023622",
+            "region": "Schwyz"
+          },
+          {
+            "percentage": "0.027559",
+            "region": "Schaffhausen"
+          },
+          {
+            "percentage": "0.007874",
+            "region": "Neuchâtel"
+          },
+          {
+            "percentage": "0.011811",
+            "region": "Jura"
+          },
+          {
+            "percentage": "0.015748",
+            "region": "Appenzell Ausserrhoden"
+          },
+          {
+            "percentage": "0.082677",
+            "region": "Graubünden"
+          },
+          {
+            "percentage": "0.019685",
+            "region": "Fribourg"
+          },
+          {
+            "percentage": "0.098425",
+            "region": "Canton of St. Gallen"
+          },
+          {
+            "percentage": "0.019685",
+            "region": "Canton of Obwalden"
+          },
+          {
+            "percentage": "0.011811",
+            "region": "Canton of Nidwalden"
+          },
+          {
+            "percentage": "0.023622",
+            "region": "Canton of Glarus"
+          },
+          {
+            "percentage": "0.161417",
+            "region": "Bern"
+          },
+          {
+            "percentage": "0.031496",
+            "region": "Basel-Landschaft"
+          },
+          {
+            "percentage": "0.003937",
+            "region": "Basel-City"
+          },
+          {
+            "percentage": "0.003937",
+            "region": "Appenzell Innerrhoden"
+          },
+          {
+            "percentage": "0.106299",
+            "region": "Zürich"
+          }
+        ],
+        "impressions": {
+          "lower_bound": "0",
+          "upper_bound": "999"
+        },
+        "page_id": "655108054361985",
+        "page_name": "Nein zum Sanierungs-Stopp",
+        "publisher_platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "spend": {
+          "lower_bound": "0",
+          "upper_bound": "99"
+        },
+        "languages": [
+          "de"
+        ],
+        "bylines": "Nein zum Sanierungs-Stopp",
+        "estimated_audience_size": {
+          "lower_bound": "100001",
+          "upper_bound": "500000"
+        }
+      }
+    },
+    "media": {
+      "screenshots": [
+        {
+          "media_id": 4609,
+          "file_url": "file:///C:/Users/mathi/Masterthesis/Code/agenticAi_system_v2/Eigenmietwert/Screenshots/2025-09-18/24672554885688807.png",
+          "filename": "24672554885688807.png",
+          "date_folder": "2025-09-18"
+        }
+      ],
+      "images": [],
+      "videos": []
+    },
+    "llm_analysis": {
+      "provider": "openai",
+      "analysis_file_payload": {
+        "kampagne_id": "4",
+        "analysetool": "OpenAI",
+        "analyse_datum": "2025-09-18",
+        "screenshot_id": "media:4609",
+        "geeignet": true,
+        "analyse": {
+          "visuelle_features": {
+            "farbpalette": [
+              "#FFFFFF",
+              "#000000",
+              "#FFAA00"
+            ],
+            "schriftarten_erkannt": [
+              "Arial",
+              "Sans Serif"
+            ],
+            "schriftgrößen_verteilung": {
+              "klein": 3,
+              "mittel": 2,
+              "groß": 1
+            },
+            "textausrichtung": "links",
+            "flächenverteilung": {
+              "textfläche": 30,
+              "bildfläche": 50,
+              "weißraum": 20
+            },
+            "kompositionstyp": "asymmetrisch",
+            "bildtyp": "Foto",
+            "blickführung": "dynamisch",
+            "salienzverteilung": 0.0,
+            "dominante_layoutstruktur": "mehrspaltig",
+            "plattformkontext_erkannt": true,
+            "plattform": "Facebook",
+            "elemente": [
+              {
+                "element": "Text",
+                "position": "oben",
+                "farbe": "schwarz",
+                "größe": "groß",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Headline",
+                "bedeutung": "Hauptbotschaft",
+                "inhalt": "Nein zum Sanierungs-Stopp",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Berglandschaft mit Häusern",
+                "markenlogo_erkannt": true
+              },
+              {
+                "element": "Text",
+                "position": "Mitte",
+                "farbe": "schwarz",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": false,
+                "funktion": "Info-Text",
+                "bedeutung": "Zusätzliche Informationen",
+                "inhalt": "Eigenmietwert: Bergkantone halten nichts vom «Steuergeschenk»",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              },
+              {
+                "element": "Button",
+                "position": "unten",
+                "farbe": "blau",
+                "größe": "mittel",
+                "form": "rechteckig",
+                "interaktiv_erscheinung": true,
+                "funktion": "CTA",
+                "bedeutung": "Handlungsaufforderung",
+                "inhalt": "Learn More",
+                "person_mimik_erkannbar": "nicht sichtbar",
+                "bild_inhalt": "Unklar",
+                "markenlogo_erkannt": false
+              }
+            ]
+          },
+          "textuelle_features": {
+            "headline_länge": "5",
+            "headline_zeichenanzahl": 25,
+            "headline_wortanzahl": 5,
+            "gesamtzeichenanzahl": 150,
+            "gesamtwortanzahl": 30,
+            "durchschnittliche_wortlänge": 5.0,
+            "anzahl_textblöcke": 3,
+            "anzahl_schriftarten": 2,
+            "text_bild_verhältnis": 0.6,
+            "cta_typ": "Learn More",
+            "cta_position": "unten",
+            "cta_visuelle_prominenz": "hoch",
+            "cta_wirkungseinschätzung": "hoch",
+            "sprachstil": "werblich",
+            "tonalität": "dringlich",
+            "textgliederung_erkennbar": true,
+            "wortartenverteilung": {
+              "Substantive": 10,
+              "Verben": 5,
+              "Adjektive": 3,
+              "Pronomen": 2
+            },
+            "text_inhalte": [
+              "Nein zum Sanierungs-Stopp",
+              "Eigenmietwert: Bergkantone halten nichts vom «Steuergeschenk»",
+              "Artikel lesen"
+            ]
+          },
+          "semantische_features": {
+            "argumenttyp": "rational",
+            "bild_text_verhältnis": "0.5",
+            "symbolgebrauch": {
+              "symbol_erkannt": true,
+              "symbol_typ": "Logo",
+              "symbol_bedeutung": "Markenidentität"
+            },
+            "werbeversprechen": "USP",
+            "zielgruppe": "Allgemein",
+            "zielgruppen_indikatoren": [
+              "Bauern",
+              "Unternehmer",
+              "Politikinteressierte"
+            ],
+            "emotionaler_apell": "dringlich",
+            "framing_typ": "Verlust",
+            "ansprache_typ": "direkt"
+          }
+        }
+      }
+    },
+    "derived": {
+      "has_llm": true,
+      "has_video": false
+    }
+  }
+]

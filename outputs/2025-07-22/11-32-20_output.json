@@ -1,0 +1,7 @@
+{
+  "input": "Verarbeite diesen Satz mit einem Tool: 'Dies ist ein Beispieltext.'",
+  "output": {
+    "input": "Verarbeite diesen Satz mit einem Tool: 'Dies ist ein Beispieltext.'",
+    "output": "Der Satz 'Dies ist ein Beispieltext.' wurde erfolgreich mit dem Tool verarbeitet."
+  }
+}
