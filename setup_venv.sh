@@ -1,5 +1,5 @@
 
-echo "📦 Starte Setup für virtuelles Environment..."
+echo "Starte Setup für virtuelles Environment..."
 
 ENV_NAME="agentic_ai_env"
 
@@ -15,4 +15,4 @@ pip install --upgrade pip
 # 4. Abhängigkeiten installieren
 pip install -r requirements.txt
 
-echo "✅ Umgebung '$ENV_NAME' aktiviert & requirements installiert."
+echo "Umgebung '$ENV_NAME' aktiviert & requirements installiert."
