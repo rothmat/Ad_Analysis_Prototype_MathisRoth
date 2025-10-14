@@ -3,7 +3,6 @@ README — ad-db (PostgreSQL Stack & How-To)
 Diese README erklärt das Starten des DB-Stacks, das Öffnen der DB aus dem Terminal, die Zugangsdaten,
 das Schema, typische Workflows und nützliche Befehle.
 
-──────────────────────────────────────────────────────────────────────────────
 INHALT
 - Voraussetzungen
 - Schnellstart
@@ -17,7 +16,6 @@ INHALT
 - Backups & Restore
 - Schema-Updates (Migrationen)
 - Troubleshooting
-──────────────────────────────────────────────────────────────────────────────
 
 VORAUSSETZUNGEN
 - Docker Desktop installiert und läuft.
@@ -181,20 +179,3 @@ Verbindungstest:
 Schema geladen?
   docker exec ad_pg psql -U app -d appdb -c "\dt+"
   docker exec ad_pg psql -U app -d appdb -c "\dv+"
-
-Windows-Fallen:
-- PowerShell Here-Strings: für SQL immer einfachen Here-String nutzen @' ... '@ (sonst zerschießt es $$).
-- Pfade mit Leerzeichen: in Anführungszeichen setzen.
-- Containername: Befehle erwarten "ad_pg" (ggf. mit docker ps prüfen).
-
-Mini-Smoke-Test:
-  docker exec -i ad_pg psql -U app -d appdb -v ON_ERROR_STOP=1 -c "
-  INSERT INTO campaigns(name, slug) VALUES ('Testkampagne','testkampagne') ON CONFLICT DO NOTHING;
-  WITH c AS (SELECT id FROM campaigns WHERE slug='testkampagne')
-  INSERT INTO ads(campaign_id, ad_external_id, first_seen, last_seen)
-  SELECT c.id,'AD_123',now(),now() FROM c
-  ON CONFLICT (campaign_id, ad_external_id) DO UPDATE SET last_seen=EXCLUDED.last_seen;
-  "
-  docker exec ad_pg psql -U app -d appdb -c "
-  SELECT c.name, a.ad_external_id FROM campaigns c JOIN ads a ON a.campaign_id=c.id WHERE c.slug='testkampagne';
-  "
