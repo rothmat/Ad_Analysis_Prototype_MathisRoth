@@ -1543,7 +1543,7 @@ else:
             st.caption("Keine passenden Ads in den Snapshots gefunden.")
 
 # ===================================================================
-# TAB 3 – KAMPAGNE (gesamt)  —  wie Tab 2, aber über ALLE Gruppen der Kampagne
+# TAB 3 – KAMPAGNE (gesamt)  —  inhaltlich wie Tab 2, aber über ALLE Ads der Kampagne
 # ===================================================================
 with tab3:
     # ------------- Filter -------------
@@ -1556,6 +1556,7 @@ with tab3:
         )
         if camp_opts.empty:
             st.stop()
+
         sel_camp = st.selectbox(
             "Kampagne",
             options=camp_opts["campaign_slug"].tolist(),
@@ -1573,11 +1574,13 @@ with tab3:
     camp_name  = camp_opts.set_index("campaign_slug").loc[sel_camp, "campaign_name"]
     st.markdown(f"### Kampagne: **{camp_name}**")
 
-    # Kennzahlen (analog zu Tab 2)
+    # Kennzahlen (analog zu Tab 2, aber über gesamte Kampagne)
     n_ads  = df_k["ad_id"].nunique()
     n_ext  = df_k["ad_external_id"].dropna().nunique()
     n_grp  = df_k["page_name"].dropna().nunique()
-    st.caption(f"Analysierte Ads: **{n_ads}**  ·  Distinct External-IDs: **{n_ext}**  ·  Gruppen/Akteure: **{n_grp}**")
+    st.caption(
+        f"Analysierte Ads: **{n_ads}**  ·  Distinct External-IDs: **{n_ext}**  ·  Gruppen/Akteure: **{n_grp}**"
+    )
 
     # ------------- Screenshots (links/rechts) -------------
     shot_df = pd.DataFrame()
@@ -1730,7 +1733,8 @@ Kontext
                         use_container_width=True)
         with st.expander("Einzel-Einträge (Kampagnen-Perspektiven)"):
             st.dataframe(
-                camp_persp.assign(confidence=lambda d: d["confidence"].astype(float)).sort_values("confidence", ascending=False),
+                camp_persp.assign(confidence=lambda d: d["confidence"].astype(float))
+                          .sort_values("confidence", ascending=False),
                 use_container_width=True, height=260
             )
     else:
@@ -1750,7 +1754,7 @@ Kontext
     else:
         st.caption("Keine Perspektivenklassifizierung für die Einzel-Ads gefunden.")
 
-    # ------------- Themen (Tagging) -------------
+    # ------------- Themen (Kampagne) -------------
     st.subheader("Themen (Kampagne)")
     topic_rows = []
     for ad_id in ad_ids:
@@ -1826,7 +1830,7 @@ Kontext
     else:
         st.caption("Keine regionale Verteilung verfügbar.")
 
-    # ------------- Creative-Insights (aggregiert) -------------
+    # ------------- Creative-Insights (Kampagne) -------------
     st.subheader("Creative-Insights (Kampagne)")
     if cta_vals:
         cta_df = pd.Series(cta_vals, name="CTA").value_counts().reset_index()
@@ -1887,7 +1891,8 @@ Kontext
         pal_df.columns = ["farbe","anzahl"]
         cols = st.columns(len(pal_df))
         for (_, r), col in zip(pal_df.iterrows(), cols):
-            col.markdown(f"<div style='height:24px;border-radius:4px;background:{r['farbe']}'></div>", unsafe_allow_html=True)
+            col.markdown(f"<div style='height:24px;border-radius:4px;background:{r['farbe']}'></div>",
+                         unsafe_allow_html=True)
             col.caption(f"{r['farbe']} ({int(r['anzahl'])})")
 
     # ---------------- Zeitverlauf (Kampagne) — API-Snapshots, Summe über ALLE Ads der Kampagne ----------------
@@ -1911,12 +1916,12 @@ Kontext
         if campaign_ids:
             try:
                 with conn.cursor() as cur:
-                    cols = _table_cols(conn, "api_snapshots")
+                    cols_snap = _table_cols(conn, "api_snapshots")
                     json_candidates = ["payload","raw","api_raw","snapshot"]
                     ts_candidates   = ["created_at","ingested_at","fetched_at","updated_at"]
-                    date_col = "snapshot_date" if "snapshot_date" in cols else None
-                    json_col = next((c for c in json_candidates if c in cols), None)
-                    ts_col   = next((c for c in ts_candidates   if c in cols), None)
+                    date_col = "snapshot_date" if "snapshot_date" in cols_snap else None
+                    json_col = next((c for c in json_candidates if c in cols_snap), None)
+                    ts_col   = next((c for c in ts_candidates   if c in cols_snap), None)
                     if json_col:
                         if date_col:
                             sql = f"""
@@ -1943,7 +1948,6 @@ Kontext
                 except Exception: pass
                 api_df = pd.DataFrame(columns=["snapshot_date","raw"])
 
-        # aggregieren (nur Tage mit mindestens 1 Kampagnen-Ad im Snapshot)
         import numpy as np
         import plotly.graph_objects as go
 
@@ -1960,13 +1964,14 @@ Kontext
 
             for r in api_df.itertuples():
                 ads_list = getattr(r, "raw", []) or []
-                if not isinstance(ads_list, (list, tuple)): continue
+                if not isinstance(ads_list, (list, tuple)):
+                    continue
 
                 day_spend = day_impr = day_eu = 0.0
                 day_ads = set()
                 for it in ads_list:
                     ad_ext = str((it or {}).get("id") or "").strip()
-                    if not ad_ext or ad_ext not in ext_ids: 
+                    if not ad_ext or ad_ext not in ext_ids:
                         continue
                     day_spend += float(_mid_value((it or {}).get("spend") or {}) or 0.0)
                     day_impr  += float(_mid_value((it or {}).get("impressions") or {}) or 0.0)
